@@ -1,0 +1,10 @@
+# pre-compression texture backups (gitignored — don't commit)
+_originals/
+
+# deps & build
+node_modules/
+dist/
+
+# misc
+.DS_Store
+Thumbs.db

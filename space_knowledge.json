@@ -1,0 +1,2358 @@
+{
+  "mercury": {
+    "keywords": [
+      "mercury",
+      "mercury planet",
+      "innermost planet",
+      "smallest planet"
+    ],
+    "answer": "<strong>Mercury</strong> is the smallest planet in our solar system and the closest to the Sun. It has no atmosphere, so surface temperatures swing from -180°C at night to 430°C during the day. A year on Mercury is just 88 Earth days, and it has no moons or rings."
+  },
+  "venus": {
+    "keywords": [
+      "venus",
+      "venus planet",
+      "earth twin",
+      "morning star",
+      "evening star"
+    ],
+    "answer": "<strong>Venus</strong> is the hottest planet in the solar system, with surface temperatures reaching 465°C due to a runaway greenhouse effect. It rotates backwards (retrograde rotation) and a day on Venus lasts longer than its year — 243 Earth days vs 225. It's often called Earth's twin because of similar size and mass."
+  },
+  "earth": {
+    "keywords": [
+      "earth",
+      "earth planet",
+      "home planet",
+      "third planet",
+      "blue planet"
+    ],
+    "answer": "<strong>Earth</strong> is the third planet from the Sun and the only known world to harbor life. About 71% of its surface is covered by liquid water, earning it the nickname the Blue Planet. It has one large Moon, a protective magnetic field, and an atmosphere rich in nitrogen and oxygen."
+  },
+  "mars": {
+    "keywords": [
+      "mars",
+      "mars planet",
+      "red planet",
+      "martian",
+      "fourth planet"
+    ],
+    "answer": "<strong>Mars</strong> is the fourth planet from the Sun, known as the Red Planet due to iron oxide (rust) on its surface. It has the tallest mountain in the solar system — Olympus Mons at 21.9 km — and the deepest canyon, Valles Marineris. Mars has two tiny moons, Phobos and Deimos, and is the primary target for human exploration."
+  },
+  "jupiter": {
+    "keywords": [
+      "jupiter",
+      "jupiter planet",
+      "largest planet",
+      "gas giant",
+      "fifth planet"
+    ],
+    "answer": "<strong>Jupiter</strong> is the largest planet in our solar system, a gas giant with a mass more than twice all other planets combined. Its Great Red Spot is a storm larger than Earth that has raged for hundreds of years. Jupiter has at least 95 known moons, including the four large Galilean moons: Io, Europa, Ganymede, and Callisto."
+  },
+  "saturn": {
+    "keywords": [
+      "saturn",
+      "saturn planet",
+      "ringed planet",
+      "sixth planet"
+    ],
+    "answer": "<strong>Saturn</strong> is famous for its spectacular ring system made of ice and rock particles, spanning up to 282,000 km but only about 10 meters thick. It is the least dense planet — it would actually float in water. Saturn has at least 146 known moons, with Titan being the largest and one of the most Earth-like worlds in the solar system."
+  },
+  "uranus": {
+    "keywords": [
+      "uranus",
+      "uranus planet",
+      "ice giant",
+      "seventh planet",
+      "sideways planet"
+    ],
+    "answer": "<strong>Uranus</strong> is an ice giant tilted on its side at 98°, likely from a massive ancient collision. It has a blue-green color from methane in its atmosphere absorbing red light. Uranus has 27 known moons, all named after characters from Shakespeare and Pope, and faint ring systems."
+  },
+  "neptune": {
+    "keywords": [
+      "neptune",
+      "neptune planet",
+      "eighth planet",
+      "ice giant",
+      "windiest planet"
+    ],
+    "answer": "<strong>Neptune</strong> is the eighth and farthest planet from the Sun, a deep blue ice giant with the strongest winds in the solar system reaching 2,100 km/h. It has 16 known moons, including Triton which orbits in the opposite direction. Neptune was the first planet located through mathematical prediction rather than observation."
+  },
+  "sun": {
+    "keywords": [
+      "sun",
+      "the sun",
+      "solar",
+      "star",
+      "our star",
+      "yellow dwarf"
+    ],
+    "answer": "The <strong>Sun</strong> is a yellow dwarf star (G-type main-sequence star) at the center of our solar system. It contains 99.86% of all mass in the solar system and converts 600 million tons of hydrogen into helium every second through nuclear fusion. The Sun's energy takes about 8 minutes to reach Earth, and it will become a red giant in about 5 billion years."
+  },
+  "moon": {
+    "keywords": [
+      "moon",
+      "earth moon",
+      "lunar",
+      "earth's moon",
+      "luna"
+    ],
+    "answer": "Earth's <strong>Moon</strong> is the fifth largest moon in the solar system and our closest celestial neighbor at 384,400 km away. It formed from a giant impact between Earth and a Mars-sized body called Theia. The Moon has no atmosphere, no magnetic field, and its gravity is about 1/6 of Earth's, with the same side always facing Earth (tidal locking)."
+  },
+  "titan": {
+    "keywords": [
+      "titan",
+      "titan moon",
+      "saturn moon",
+      "largest moon saturn",
+      "huygens"
+    ],
+    "answer": "<strong>Titan</strong> is Saturn's largest moon, bigger than Mercury, with a thick nitrogen-rich atmosphere and liquid methane lakes on its surface. It is considered one of the most Earth-like worlds with a complete liquid cycle — but using methane instead of water. NASA's Dragonfly mission will launch a drone to explore Titan in the 2030s."
+  },
+  "europa": {
+    "keywords": [
+      "europa",
+      "europa moon",
+      "jupiter moon",
+      "icy moon",
+      "subsurface ocean"
+    ],
+    "answer": "<strong>Europa</strong> is one of Jupiter's Galilean moons, covered in a smooth icy crust with a vast liquid water ocean beneath it. This subsurface ocean makes Europa one of the most promising places to search for extraterrestrial life in our solar system. NASA's Europa Clipper mission will conduct detailed reconnaissance of this ocean world."
+  },
+  "io": {
+    "keywords": [
+      "io",
+      "io moon",
+      "volcanic moon",
+      "jupiter moon"
+    ],
+    "answer": "<strong>Io</strong> is the most volcanically active world in the solar system, with hundreds of volcanoes erupting sulfur and lava. It is one of Jupiter's Galilean moons and is constantly squeezed by Jupiter's immense gravity, causing tidal heating. Its surface is covered in sulfur compounds giving it yellow, orange, and red colors."
+  },
+  "ganymede": {
+    "keywords": [
+      "ganymede",
+      "ganymede moon",
+      "largest moon",
+      "jupiter moon",
+      "magnetic field"
+    ],
+    "answer": "<strong>Ganymede</strong> is the largest moon in the solar system — bigger than Mercury — and the only moon known to have its own magnetic field. It is one of Jupiter's Galilean moons with an icy crust and a subsurface saltwater ocean. Ganymede has a thin oxygen atmosphere and was visited by NASA's Galileo and Juno missions."
+  },
+  "callisto": {
+    "keywords": [
+      "callisto",
+      "callisto moon",
+      "jupiter moon",
+      "cratered moon"
+    ],
+    "answer": "<strong>Callisto</strong> is the most heavily cratered object in the solar system, an ancient icy world orbiting Jupiter. It is the outermost of the Galilean moons and has a subsurface ocean that may be the deepest in the solar system. Callisto is considered the best candidate for a future human outpost due to its lower radiation levels."
+  },
+  "triton": {
+    "keywords": [
+      "triton",
+      "triton moon",
+      "neptune moon",
+      "largest moon neptune"
+    ],
+    "answer": "<strong>Triton</strong> is Neptune's largest moon, unique for its retrograde orbit — it orbits opposite to Neptune's rotation, suggesting it was a Kuiper Belt object captured by gravity. It has geysers that shoot nitrogen gas 8 km high and a surface temperature of -235°C. Triton is one of the coldest known worlds in the solar system."
+  },
+  "phobos": {
+    "keywords": [
+      "phobos",
+      "phobos moon",
+      "mars moon",
+      "doomed moon"
+    ],
+    "answer": "<strong>Phobos</strong> is the larger of Mars's two moons, a lumpy, potato-shaped body just 27 km across at its widest. It orbits so close to Mars that it is slowly spiraling inward and will either crash into the planet or break apart into a ring in about 50 million years."
+  },
+  "deimos": {
+    "keywords": [
+      "deimos",
+      "deimos moon",
+      "mars moon"
+    ],
+    "answer": "<strong>Deimos</strong> is the smaller of Mars's two moons at only 12 km across, with a smooth, dusty surface. It orbits farther out than Phobos and is slowly moving away from Mars. Both Martian moons may be captured asteroids from the main asteroid belt."
+  },
+  "enceladus": {
+    "keywords": [
+      "enceladus",
+      "enceladus moon",
+      "saturn moon",
+      "icy moon",
+      "geysers"
+    ],
+    "answer": "<strong>Enceladus</strong> is a small icy moon of Saturn that shoots enormous plumes of water vapor and ice grains from its south pole into space. These geysers come from a global subsurface ocean, making Enceladus a prime target in the search for life. The Cassini spacecraft flew through these plumes and found organic compounds."
+  },
+  "miranda": {
+    "keywords": [
+      "miranda",
+      "miranda moon",
+      "uranus moon",
+      "frankenstein moon"
+    ],
+    "answer": "<strong>Miranda</strong> is the smallest and innermost of Uranus's major moons, with a bizarre surface featuring enormous canyons up to 20 km deep and chaotic terrain called the coronae. It looks like it was broken apart and reassembled, earning it the nickname the Frankenstein moon."
+  },
+  "mimas": {
+    "keywords": [
+      "mimas",
+      "mimas moon",
+      "saturn moon",
+      "death star moon",
+      "Herschel crater"
+    ],
+    "answer": "<strong>Mimas</strong> is a small moon of Saturn with a giant impact crater called Herschel that makes it look like the Death Star from Star Wars. The crater is 130 km across — one-third the diameter of Mimas itself. Its interior may contain a liquid water ocean."
+  },
+  "asteroid": {
+    "keywords": [
+      "asteroid",
+      "asteroids",
+      "asteroid belt",
+      "minor planet",
+      "space rock"
+    ],
+    "answer": "<strong>Asteroids</strong> are rocky, airless remnants left over from the early formation of our solar system, mostly found in the asteroid belt between Mars and Jupiter. They range in size from tiny boulders to Ceres, a dwarf planet 940 km across. Some asteroids have their own moons, and they occasionally impact Earth — like the one that wiped out the dinosaurs 66 million years ago."
+  },
+  "comet": {
+    "keywords": [
+      "comet",
+      "comets",
+      "dirty snowball",
+      "icy body",
+      "coma",
+      "nucleus"
+    ],
+    "answer": "<strong>Comets</strong> are icy bodies that develop spectacular glowing comas and tails when they approach the Sun. They originate from the Kuiper Belt and Oort Cloud and are often called dirty snowballs. A comet's tail always points away from the Sun due to solar wind, regardless of its direction of travel."
+  },
+  "halley": {
+    "keywords": [
+      "halley",
+      "halley comet",
+      "1p halley",
+      "halley's comet"
+    ],
+    "answer": "<strong>Halley's Comet</strong> is the most famous periodic comet, visible from Earth every 75-76 years. It last appeared in 1986 and will return in 2061. Mark Twain was born during one appearance and died during the next — as he predicted. It is the only naked-eye comet that can appear twice in a human lifetime."
+  },
+  "halebopp": {
+    "keywords": [
+      "hale bopp",
+      "hale-bopp",
+      "comet hale bopp",
+      "great comet"
+    ],
+    "answer": "<strong>Comet Hale-Bopp</strong> was one of the brightest comets ever seen, visible to the naked eye for a record 18 months in 1996-1997. It has a large nucleus about 60 km across — unusually large for a comet. Its next visit will be around the year 4380."
+  },
+  "asteroidbelt": {
+    "keywords": [
+      "asteroid belt",
+      "main belt",
+      "asteroids between mars and jupiter"
+    ],
+    "answer": "The <strong>Asteroid Belt</strong> is a region between Mars and Jupiter containing millions of rocky bodies orbiting the Sun. Despite what movies show, the asteroids are spread very far apart — you could fly through without even seeing one. The total mass of all asteroids in the belt is less than that of Earth's Moon."
+  },
+  "kuiperbelt": {
+    "keywords": [
+      "kuiper belt",
+      "kuiper",
+      "trans neptunian",
+      "edgeworth kuiper"
+    ],
+    "answer": "The <strong>Kuiper Belt</strong> is a vast donut-shaped region of icy bodies beyond Neptune, extending from about 30 to 50 astronomical units from the Sun. It contains dwarf planets like Pluto, Eris, Makemake, and Haumea, along with countless comets. The New Horizons spacecraft gave us our first close-up look at this region."
+  },
+  "oortcloud": {
+    "keywords": [
+      "oort cloud",
+      "oort",
+      "outer solar system",
+      "comet reservoir"
+    ],
+    "answer": "The <strong>Oort Cloud</strong> is a theoretical spherical shell of icy bodies surrounding the entire solar system at up to 100,000 astronomical units from the Sun — nearly half a light-year away. It is the source of long-period comets and has never been directly observed. The Voyager spacecraft will reach the inner edge of the Oort Cloud in about 300 years."
+  },
+  "pluto": {
+    "keywords": [
+      "pluto",
+      "dwarf planet",
+      "former planet",
+      "ninth planet",
+      "kuiper belt"
+    ],
+    "answer": "<strong>Pluto</strong> was reclassified as a dwarf planet in 2006 by the International Astronomical Union. It has a heart-shaped glacier called Sputnik Planitia and five known moons, with Charon being the largest at half the size of Pluto. New Horizons flew by in 2015, revealing Pluto as a surprisingly geologically active world with mountains, glaciers, and a thin atmosphere."
+  },
+  "ceres": {
+    "keywords": [
+      "ceres",
+      "dwarf planet",
+      "largest asteroid",
+      "dwarf planet asteroid belt"
+    ],
+    "answer": "<strong>Ceres</strong> is the largest object in the asteroid belt and the only dwarf planet in the inner solar system. At 940 km across, it contains about one-third of the asteroid belt's total mass. NASA's Dawn spacecraft discovered bright salt deposits (faculae) in Occator Crater, evidence of recent geological activity."
+  },
+  "eris": {
+    "keywords": [
+      "eris",
+      "dwarf planet",
+      "scattered disc",
+      "kuiper belt object"
+    ],
+    "answer": "<strong>Eris</strong> is the most massive known dwarf planet, slightly more massive than Pluto at 2,326 km in diameter. Its discovery in 2005 led to the reclassification of Pluto. Eris has one known moon called Dysnomia and orbits the Sun in a highly elliptical path taking 557 years."
+  },
+  "makemake": {
+    "keywords": [
+      "makemake",
+      "dwarf planet",
+      "kuiper belt object"
+    ],
+    "answer": "<strong>Makemake</strong> is a dwarf planet in the Kuiper Belt named after the Rapa Nui creation deity from Easter Island. It is about two-thirds the size of Pluto and was discovered in 2005. Makemake has one known moon, MK2, and a surface covered in frozen methane."
+  },
+  "haumea": {
+    "keywords": [
+      "haumea",
+      "dwarf planet",
+      "kuiper belt object",
+      "elongated dwarf planet"
+    ],
+    "answer": "<strong>Haumea</strong> is a unique dwarf planet in the Kuiper Belt shaped like an elongated football due to its incredibly fast rotation — it spins once every 4 hours. It has two moons, Hi'iaka and Namaka, and is surrounded by a ring system. Haumea was named after the Hawaiian goddess of childbirth."
+  },
+  "reddwarf": {
+    "keywords": [
+      "red dwarf",
+      "m dwarf",
+      "type m star",
+      "cool star",
+      "small star"
+    ],
+    "answer": "<strong>Red dwarfs</strong> are the most common stars in the universe, making up about 75% of all stars. They are small, cool, and burn their fuel extremely slowly, with lifespans far exceeding the current age of the universe — trillions of years. Proxima Centauri, our closest stellar neighbor, is a red dwarf."
+  },
+  "yellowdwarf": {
+    "keywords": [
+      "yellow dwarf",
+      "g dwarf",
+      "g type star",
+      "g2v",
+      "sun like star"
+    ],
+    "answer": "<strong>Yellow dwarfs</strong> like our Sun are G-type main-sequence stars that burn hydrogen in their cores at moderate temperatures. They live for about 10 billion years before swelling into red giants. Only about 7% of stars in the Milky Way are yellow dwarfs."
+  },
+  "bluegiant": {
+    "keywords": [
+      "blue giant",
+      "o type star",
+      "b type star",
+      "hot star",
+      "massive star"
+    ],
+    "answer": "<strong>Blue giants</strong> are extremely hot, massive stars that burn through their fuel very quickly — often in just a few million years. They are the most luminous stars in the universe, with surface temperatures over 30,000°C. Many end their lives in spectacular supernova explosions, leaving behind neutron stars or black holes."
+  },
+  "redgiant": {
+    "keywords": [
+      "red giant",
+      "giant star",
+      "evolved star",
+      "late stage star"
+    ],
+    "answer": "<strong>Red giants</strong> are aging stars that have exhausted their core hydrogen and expanded enormously, cooling as they balloon outward. Our Sun will become a red giant in about 5 billion years, expanding past the orbit of Earth. Betelgeuse in Orion is a famous red supergiant that could go supernova any day."
+  },
+  "supergiant": {
+    "keywords": [
+      "supergiant",
+      "supergiant star",
+      "massive star",
+      "hypergiant"
+    ],
+    "answer": "<strong>Supergiants</strong> are among the most massive and luminous stars in the universe, with radii up to 1,500 times that of our Sun. They burn through their nuclear fuel extremely fast — in just a few million years. Their dramatic lives end in colossal supernovae or even gamma-ray bursts."
+  },
+  "whitedwarf": {
+    "keywords": [
+      "white dwarf",
+      "degenerate star",
+      "stellar remnant",
+      "compact star"
+    ],
+    "answer": "<strong>White dwarfs</strong> are the dense, hot remnants of stars like our Sun after they shed their outer layers as planetary nebulae. A teaspoon of white dwarf material would weigh about 5.5 tons. They slowly cool over billions of years and will eventually become black dwarfs — though the universe isn't old enough for any to exist yet."
+  },
+  "neutronstar": {
+    "keywords": [
+      "neutron star",
+      "pulsar",
+      "ultra dense star",
+      "stellar remnant"
+    ],
+    "answer": "<strong>Neutron stars</strong> are the collapsed cores of massive stars after supernova explosions, composed almost entirely of neutrons. They are incredibly dense — a sugar-cube-sized amount would weigh about a trillion kilograms. Pulsars are rotating neutron stars that emit beams of radiation like cosmic lighthouses."
+  },
+  "browndwarf": {
+    "keywords": [
+      "brown dwarf",
+      "failed star",
+      "substellar",
+      "sub brown dwarf"
+    ],
+    "answer": "<strong>Brown dwarfs</strong> are objects too massive to be planets but not massive enough to sustain nuclear fusion like stars — they are often called failed stars. They are about 13 to 80 times the mass of Jupiter and emit mostly infrared light. The coldest known brown dwarf has a temperature similar to a cup of coffee."
+  },
+  "blackhole_stellar": {
+    "keywords": [
+      "stellar mass black hole",
+      "stellar black hole",
+      "black hole formation",
+      "star collapse black hole"
+    ],
+    "answer": "<strong>Stellar-mass black holes</strong> form when massive stars collapse at the end of their lives, packing more than 3-10 times the Sun's mass into a single point. They are scattered throughout galaxies and can be detected by their gravitational pull on nearby stars or by the X-rays emitted when they consume gas. The closest known stellar-mass black hole is about 1,500 light-years away."
+  },
+  "blackhole_supermassive": {
+    "keywords": [
+      "supermassive black hole",
+      "sagittarius a",
+      "galactic center",
+      "smbh"
+    ],
+    "answer": "<strong>Supermassive black holes</strong> are millions to billions of times the mass of our Sun and sit at the centers of most large galaxies, including the Milky Way's own Sagittarius A*. They likely grew from smaller seed black holes merging over cosmic time. The Event Horizon Telescope captured the first-ever image of one — the M87 black hole in 2019."
+  },
+  "blackhole_intermediate": {
+    "keywords": [
+      "intermediate mass black hole",
+      "imbh",
+      "medium black hole"
+    ],
+    "answer": "<strong>Intermediate-mass black holes</strong> range from 100 to 100,000 solar masses and are the missing link between stellar-mass and supermassive black holes. They are the least understood type, though a few promising candidates have been found in globular clusters and dwarf galaxies."
+  },
+  "eventhorizon": {
+    "keywords": [
+      "event horizon",
+      "black hole edge",
+      "point of no return",
+      "schwarzschild radius"
+    ],
+    "answer": "The <strong>event horizon</strong> is the boundary around a black hole beyond which nothing, not even light, can escape. Once something crosses this point, it is inexorably drawn toward the singularity. The size of the event horizon — the Schwarzschild radius — is directly proportional to the black hole's mass."
+  },
+  "singularity": {
+    "keywords": [
+      "singularity",
+      "black hole center",
+      "infinite density",
+      "spacetime"
+    ],
+    "answer": "A <strong>singularity</strong> is the infinitely dense, infinitely small point at the center of a black hole where our understanding of physics breaks down. General relativity predicts it, but quantum mechanics must be reconciled to truly understand what happens there. It is a point where space and time become infinitely curved."
+  },
+  "hawkingradiation": {
+    "keywords": [
+      "hawking radiation",
+      "stephen hawking",
+      "black hole evaporation",
+      "quantum black hole"
+    ],
+    "answer": "<strong>Hawking radiation</strong> is a theoretical process proposed by Stephen Hawking in 1974 where black holes slowly lose mass by emitting particles due to quantum effects near the event horizon. This means black holes can eventually evaporate over immense timescales. It remains undetected since the radiation is incredibly faint for large black holes."
+  },
+  "galaxy_spiral": {
+    "keywords": [
+      "spiral galaxy",
+      "spiral",
+      "pinwheel galaxy",
+      "disc galaxy"
+    ],
+    "answer": "<strong>Spiral galaxies</strong> are majestic rotating disks of stars, gas, and dust with characteristic spiral arms winding outward from a central bulge. About 60% of nearby galaxies are spirals, including our own Milky Way. The arms are actually density waves — traffic jams of stars and gas moving through the disk."
+  },
+  "galaxy_elliptical": {
+    "keywords": [
+      "elliptical galaxy",
+      "elliptical",
+      "round galaxy",
+      "elliptical galaxies"
+    ],
+    "answer": "<strong>Elliptical galaxies</strong> are smooth, featureless collections of old stars with little gas or dust, ranging from nearly spherical to elongated football shapes. They contain mostly aging stars and have little new star formation. The largest galaxies in the universe are giant ellipticals like IC 1101 in the center of galaxy clusters."
+  },
+  "galaxy_irregular": {
+    "keywords": [
+      "irregular galaxy",
+      "irregular",
+      "odd shaped galaxy",
+      "irregular galaxies"
+    ],
+    "answer": "<strong>Irregular galaxies</strong> have no defined shape, often resulting from gravitational interactions, collisions, or near-misses with other galaxies. The Magellanic Clouds, satellite galaxies of the Milky Way, are famous irregulars. They are often rich in gas and dust, fueling vigorous star formation."
+  },
+  "galaxy_barred": {
+    "keywords": [
+      "barred spiral galaxy",
+      "barred spiral",
+      "bar galaxy",
+      "barred"
+    ],
+    "answer": "<strong>Barred spiral galaxies</strong> have a central bar-shaped structure of stars that funnels gas toward the galactic center, often triggering star formation. Our Milky Way is a barred spiral galaxy, with the bar about 27,000 light-years long. About two-thirds of spiral galaxies are barred."
+  },
+  "milkyway": {
+    "keywords": [
+      "milky way",
+      "milky way galaxy",
+      "our galaxy",
+      "the galaxy",
+      "galactic"
+    ],
+    "answer": "The <strong>Milky Way</strong> is our home galaxy, a barred spiral containing 100-400 billion stars, stretching about 100,000 light-years across. It is named for its appearance as a milky band of light across the night sky. At its center lies Sagittarius A*, a supermassive black hole about 4 million times the Sun's mass."
+  },
+  "andromeda": {
+    "keywords": [
+      "andromeda",
+      "andromeda galaxy",
+      "m31",
+      "nearest major galaxy"
+    ],
+    "answer": "<strong>Andromeda</strong> (M31) is the closest major galaxy to the Milky Way, about 2.5 million light-years away. It is larger than the Milky Way, containing about one trillion stars. Andromeda and the Milky Way are on a collision course and will merge into a giant elliptical galaxy in about 4.5 billion years."
+  },
+  "triangulum": {
+    "keywords": [
+      "triangulum",
+      "triangulum galaxy",
+      "m33",
+      "pinwheel galaxy"
+    ],
+    "answer": "<strong>Triangulum</strong> (M33) is a spiral galaxy in the Local Group, about 3 million light-years from Earth. It is the third-largest member of the Local Group after Andromeda and the Milky Way. Triangulum is thought to be a satellite of Andromeda and contains spectacular star-forming regions like NGC 604."
+  },
+  "ic1101": {
+    "keywords": [
+      "ic 1101",
+      "largest galaxy",
+      "supergiant elliptical",
+      "biggest galaxy"
+    ],
+    "answer": "<strong>IC 1101</strong> is a supergiant elliptical galaxy at the center of the Abell 2029 galaxy cluster, about 1 billion light-years away. It is one of the largest known galaxies, with a diameter of about 2 million light-years — 20 times wider than the Milky Way. It contains about 100 trillion stars."
+  },
+  "bigbang": {
+    "keywords": [
+      "big bang",
+      "big bang theory",
+      "origin of universe",
+      "beginning of universe",
+      "cosmic creation"
+    ],
+    "answer": "The <strong>Big Bang</strong> was the event that began our universe about 13.8 billion years ago, when all matter and energy expanded from an infinitely hot, dense singularity. It wasn't an explosion in space — it was the expansion of space itself. The cosmic microwave background radiation is the faint afterglow of this primordial fireball."
+  },
+  "cosmicexpansion": {
+    "keywords": [
+      "cosmic expansion",
+      "expanding universe",
+      "hubble expansion",
+      "universe expansion",
+      "redshift"
+    ],
+    "answer": "The <strong>expansion of the universe</strong> was discovered by Edwin Hubble in 1929 when he observed that galaxies are moving away from us in all directions. The farther a galaxy is, the faster it recedes — known as Hubble's Law. This expansion is accelerating due to dark energy, a mysterious force that makes up about 68% of the universe."
+  },
+  "darkenergy": {
+    "keywords": [
+      "dark energy",
+      "accelerating universe",
+      "cosmological constant",
+      "mysterious force"
+    ],
+    "answer": "<strong>Dark energy</strong> is a mysterious, unknown form of energy that is causing the expansion of the universe to accelerate. It makes up about 68% of the total energy content of the cosmos and was discovered in 1998 through observations of distant supernovae. Its true nature remains one of the biggest puzzles in all of physics."
+  },
+  "darkmatter": {
+    "keywords": [
+      "dark matter",
+      "invisible mass",
+      "hidden mass",
+      "dark matter halo",
+      "missing mass"
+    ],
+    "answer": "<strong>Dark matter</strong> is an invisible form of matter that does not emit, absorb, or reflect light, yet makes up about 27% of the universe. It is detected through its gravitational effects on galaxies and galaxy clusters. Scientists believe it may consist of weakly interacting massive particles (WIMPs), but no direct detection has been made yet."
+  },
+  "cmb": {
+    "keywords": [
+      "cosmic microwave background",
+      "cmb",
+      "cmbr",
+      "background radiation",
+      "relic radiation"
+    ],
+    "answer": "The <strong>Cosmic Microwave Background</strong> is the faint afterglow of the Big Bang, filling the entire universe at a temperature of about 2.7 Kelvin (-270°C). It was discovered accidentally in 1965 by Penzias and Wilson and provides the strongest evidence for the Big Bang theory. Tiny temperature fluctuations in the CMB are the seeds of all cosmic structure."
+  },
+  "ageofuniverse": {
+    "keywords": [
+      "age of universe",
+      "universe age",
+      "how old is universe",
+      "age of cosmos"
+    ],
+    "answer": "The <strong>universe is approximately 13.8 billion years old</strong>, determined by measuring the rate of cosmic expansion and studying the oldest stars and galaxies. The most precise measurement comes from the Planck satellite's observations of the cosmic microwave background. That's about three times the age of our solar system."
+  },
+  "nebula_emission": {
+    "keywords": [
+      "emission nebula",
+      "emission nebulae",
+      "glowing nebula",
+      "h ii region"
+    ],
+    "answer": "<strong>Emission nebulae</strong> are clouds of ionized gas that glow brightly as young, hot stars excite the surrounding hydrogen. The famous Orion Nebula is an emission nebula visible to the naked eye. Their red color comes from hydrogen atoms emitting light at a specific wavelength — H-alpha."
+  },
+  "nebula_reflection": {
+    "keywords": [
+      "reflection nebula",
+      "reflection nebulae",
+      "blue nebula",
+      "dust nebula"
+    ],
+    "answer": "<strong>Reflection nebulae</strong> are clouds of dust that scatter the light of nearby stars, typically appearing blue because blue light scatters more efficiently. The stars inside them are not hot enough to ionize the gas, so they reflect rather than emit. The Pleiades star cluster is surrounded by beautiful reflection nebulae."
+  },
+  "nebula_dark": {
+    "keywords": [
+      "dark nebula",
+      "dark nebulae",
+      "absorption nebula",
+      "dust cloud"
+    ],
+    "answer": "<strong>Dark nebulae</strong> are dense clouds of gas and dust that block light from stars behind them, appearing as black patches against brighter backgrounds. The Horsehead Nebula in Orion is the most famous dark nebula — a distinctive dark silhouette against glowing hydrogen. These regions are often where new stars are forming."
+  },
+  "nebula_planetary": {
+    "keywords": [
+      "planetary nebula",
+      "planetary nebulae",
+      "star death",
+      "shell nebula"
+    ],
+    "answer": "<strong>Planetary nebulae</strong> are glowing shells of gas ejected by dying Sun-like stars in their red giant phase. Despite the name, they have nothing to do with planets — early astronomers thought they looked like Uranus through small telescopes. The Ring Nebula (M57) and the Cat's Eye Nebula are stunning examples."
+  },
+  "orionnebula": {
+    "keywords": [
+      "orion nebula",
+      "m42",
+      "orion nebula messier",
+      "sword of orion"
+    ],
+    "answer": "The <strong>Orion Nebula</strong> (M42) is a massive star-forming region located 1,344 light-years away in the constellation Orion, visible to the naked eye as a fuzzy patch in Orion's sword. It is the closest large star-forming region to Earth and contains over 1,000 young stars. The nebula is about 24 light-years across."
+  },
+  "eaglenevula": {
+    "keywords": [
+      "eagle nebula",
+      "m16",
+      "pillars of creation",
+      "star forming region"
+    ],
+    "answer": "The <strong>Eagle Nebula</strong> (M16) is a young open cluster of stars and an emission nebula 7,000 light-years away in Serpens. It contains the famous Pillars of Creation — towering columns of gas and dust where new stars are being born. The Hubble Space Telescope's 1995 image of the Pillars is one of the most iconic space photos ever taken."
+  },
+  "crabnebula": {
+    "keywords": [
+      "crab nebula",
+      "m1",
+      "crab nebula supernova",
+      "messier 1",
+      "pulsar nebula"
+    ],
+    "answer": "The <strong>Crab Nebula</strong> (M1) is the expanding remnant of a supernova that Chinese astronomers observed in 1054 AD, located 6,500 light-years away. At its center is a pulsar — a neutron star spinning 30 times per second. It is the first object in Charles Messier's famous catalog of celestial objects."
+  },
+  "pillarsofcreation": {
+    "keywords": [
+      "pillars of creation",
+      "eagle nebula pillars",
+      "hubble pillars"
+    ],
+    "answer": "The <strong>Pillars of Creation</strong> are towering columns of interstellar gas and dust in the Eagle Nebula, made famous by the Hubble Space Telescope in 1995. Each pillar is several light-years tall and contains nascent protostars forming within. The James Webb Space Telescope has revealed new details of star formation hidden inside them."
+  },
+  "apollo": {
+    "keywords": [
+      "apollo",
+      "apollo program",
+      "moon landing",
+      "apollo 11",
+      "apollo missions",
+      "nasa moon"
+    ],
+    "answer": "The <strong>Apollo program</strong> was NASA's monumental effort that landed the first humans on the Moon from 1969 to 1972. Apollo 11's Neil Armstrong and Buzz Aldrin made history on July 20, 1969, with Armstrong's famous words: \"That's one small step for a man, one giant leap for mankind.\" Six Apollo missions successfully landed on the Moon, bringing back 382 kg of lunar samples."
+  },
+  "voyager": {
+    "keywords": [
+      "voyager",
+      "voyager 1",
+      "voyager 2",
+      "grand tour",
+      "interstellar",
+      "golden record"
+    ],
+    "answer": "<strong>Voyager 1 and 2</strong> are twin NASA spacecraft launched in 1977 to explore the outer planets and beyond. Voyager 1 entered interstellar space in 2012 and is the most distant human-made object at over 24 billion km from Earth. Both carry Golden Records — time capsules of Earth's sounds and music for any intelligent life that might find them."
+  },
+  "hubble": {
+    "keywords": [
+      "hubble",
+      "hubble space telescope",
+      "hst",
+      "hubble telescope"
+    ],
+    "answer": "The <strong>Hubble Space Telescope</strong> has been observing the universe from low Earth orbit since 1990, revolutionizing astronomy with its crystal-clear images. It has captured iconic photos like the Pillars of Creation, the Hubble Deep Field, and the Eagle Nebula. Hubble has helped determine the age of the universe and discovered that its expansion is accelerating."
+  },
+  "jameswebb": {
+    "keywords": [
+      "james webb",
+      "webb telescope",
+      "jwst",
+      "james webb space telescope"
+    ],
+    "answer": "The <strong>James Webb Space Telescope</strong> is NASA's most powerful space observatory, launched in December 2021 and operating from the Sun-Earth L2 Lagrange point 1.5 million km away. It sees the universe in infrared, allowing it to peer through dust clouds and observe the first galaxies formed after the Big Bang. Webb's 6.5-meter gold-coated mirror is the largest ever launched."
+  },
+  "iss": {
+    "keywords": [
+      "iss",
+      "international space station",
+      "space station",
+      "orbiting laboratory"
+    ],
+    "answer": "The <strong>International Space Station</strong> is a modular space station orbiting Earth at about 400 km altitude, traveling at 28,000 km/h. It has been continuously inhabited since November 2000 and serves as a microgravity laboratory for scientific research. The ISS is a collaboration between NASA, Roscosmos, ESA, JAXA, and CSA, spanning the size of a football field."
+  },
+  "perseverance": {
+    "keywords": [
+      "perseverance",
+      "perseverance rover",
+      "mars 2020",
+      "mars rover perseverance",
+      "percy"
+    ],
+    "answer": "<strong>Perseverance</strong> is NASA's most advanced Mars rover, landing in Jezero Crater in February 2021 to search for signs of ancient microbial life. It carries the Ingenuity helicopter — the first powered flight on another world. Perseverance is collecting rock samples for a future Mars Sample Return mission to bring them back to Earth."
+  },
+  "curiosity": {
+    "keywords": [
+      "curiosity",
+      "curiosity rover",
+      "mars science laboratory",
+      "msl",
+      "mars rover curiosity"
+    ],
+    "answer": "<strong>Curiosity</strong> is a car-sized NASA rover that has been exploring Gale Crater on Mars since August 2012. It discovered that Mars once had the right conditions for microbial life, including fresh water and organic molecules. Curiosity's journey of over 30 km has climbed Mount Sharp, studying layers of Martian history."
+  },
+  "artemis": {
+    "keywords": [
+      "artemis",
+      "artemis program",
+      "nasa moon program",
+      "return to moon",
+      "artemis missions"
+    ],
+    "answer": "<strong>Artemis</strong> is NASA's program to return humans to the Moon, including the first woman and the first person of color, with a goal of establishing a sustainable presence by the late 2020s. Artemis I launched the Orion spacecraft around the Moon in 2022, and future missions will land at the lunar south pole. This program serves as a stepping stone for crewed missions to Mars."
+  },
+  "spacex": {
+    "keywords": [
+      "spacex",
+      "spacex starship",
+      "falcon 9",
+      "falcon heavy",
+      "elon musk",
+      "dragon capsule"
+    ],
+    "answer": "<strong>SpaceX</strong>, founded by Elon Musk in 2002, revolutionized spaceflight with reusable rockets — landing Falcon 9 boosters vertically. Its <strong>Starship</strong>, the largest rocket ever built at 120 meters tall, is designed for missions to the Moon, Mars, and beyond. SpaceX also operates the Crew Dragon spacecraft that transports astronauts to the ISS."
+  },
+  "newhorizons": {
+    "keywords": [
+      "new horizons",
+      "new horizons spacecraft",
+      "pluto flyby",
+      "pluto mission"
+    ],
+    "answer": "<strong>New Horizons</strong> is the NASA spacecraft that made the first flyby of Pluto in July 2015, revealing a surprisingly complex world with glaciers, mountains, and a heart-shaped plain. It continued into the Kuiper Belt and flew by the object Arrokoth in 2019 — the most distant flyby in history. New Horizons is now heading toward interstellar space."
+  },
+  "cassini": {
+    "keywords": [
+      "cassini",
+      "cassini huygens",
+      "saturn mission",
+      "cassini spacecraft",
+      "huygens probe"
+    ],
+    "answer": "<strong>Cassini-Huygens</strong> was a joint NASA-ESA-ASI mission that studied Saturn for 13 years from 2004 to 2017. The Huygens probe landed on Titan, revealing its methane lakes and Earth-like landscape. Cassini's Grand Finale in 2017 deliberately dove into Saturn's atmosphere to protect the pristine moons Enceladus and Titan."
+  },
+  "exoplanet": {
+    "keywords": [
+      "exoplanet",
+      "exoplanets",
+      "extrasolar planet",
+      "alien world",
+      "other planets"
+    ],
+    "answer": "<strong>Exoplanets</strong> are planets that orbit stars beyond our solar system, with over 5,500 confirmed discoveries since the first detection in 1992. They come in incredible variety — hot Jupiters, super-Earths, mini-Neptunes, and lava worlds. The Kepler Space Telescope discovered more than half of all known exoplanets."
+  },
+  "detectionmethods": {
+    "keywords": [
+      "detection methods",
+      "transit method",
+      "radial velocity",
+      "direct imaging",
+      "microlensing",
+      "wobble method",
+      "planet hunting"
+    ],
+    "answer": "Exoplanets are detected using several methods. The <strong>transit method</strong> measures dips in starlight as a planet crosses in front of its star. <strong>Radial velocity</strong> detects the star's wobble from a planet's gravity. Other techniques include direct imaging, gravitational microlensing, and astrometry. The transit method has found the most exoplanets."
+  },
+  "habitablezone": {
+    "keywords": [
+      "habitable zone",
+      "goldilocks zone",
+      "liquid water zone",
+      "life zone",
+      "habitability"
+    ],
+    "answer": "The <strong>habitable zone</strong>, often called the Goldilocks Zone, is the region around a star where temperatures allow liquid water to exist on a planet's surface — not too hot, not too cold. Its location depends on the star's size and temperature. Earth sits right in the middle of our Sun's habitable zone."
+  },
+  "trappist1": {
+    "keywords": [
+      "trappist-1",
+      "trappist 1",
+      "trappist system",
+      "seven earth sized planets"
+    ],
+    "answer": "<strong>TRAPPIST-1</strong> is an ultra-cool red dwarf star 40 light-years away hosting seven Earth-sized planets, three of which orbit in the habitable zone. It is the largest batch of Earth-sized planets ever found around a single star. The James Webb Space Telescope is studying their atmospheres for potential biosignatures."
+  },
+  "proximab": {
+    "keywords": [
+      "proxima centauri b",
+      "proxima b",
+      "nearest exoplanet",
+      "closest exoplanet"
+    ],
+    "answer": "<strong>Proxima Centauri b</strong> is an Earth-sized exoplanet orbiting within the habitable zone of Proxima Centauri, our closest stellar neighbor just 4.2 light-years away. It receives similar light levels to Earth, but its red dwarf star may expose it to harsh stellar flares. Despite the challenges, it is a prime target for future interstellar missions like Breakthrough Starshot."
+  },
+  "kepler": {
+    "keywords": [
+      "kepler",
+      "kepler space telescope",
+      "kepler mission",
+      "kepler discoveries"
+    ],
+    "answer": "The <strong>Kepler Space Telescope</strong> was NASA's exoplanet-hunting mission that discovered over 2,600 confirmed planets between 2009 and 2018. It showed that planets are more common than stars in the Milky Way and that small rocky planets are abundant. Kepler also found planets in multiple-star systems and even a planet orbiting a dead white dwarf."
+  },
+  "gravity": {
+    "keywords": [
+      "gravity",
+      "gravitational force",
+      "gravity explained",
+      "gravitation",
+      "gravity definition"
+    ],
+    "answer": "<strong>Gravity</strong> is the fundamental force that attracts objects with mass toward each other, described by Einstein's General Relativity as the curvature of spacetime caused by mass and energy. On Earth, it gives us weight and accelerates objects at 9.8 m/s². Gravity holds planets in orbit around stars, stars in galaxies, and governs the large-scale structure of the universe."
+  },
+  "lightspeed": {
+    "keywords": [
+      "light speed",
+      "speed of light",
+      "186 000 miles per second",
+      "300 000 km per second",
+      "how fast is light",
+      "how fast does light travel"
+    ],
+    "answer": "The <strong>speed of light</strong> is 299,792,458 meters per second (about 300,000 km/s) in a vacuum — the universal speed limit according to Einstein's theory of relativity. Nothing with mass can reach this speed. Light from the Sun takes about 8 minutes to reach Earth, and a light-year is the distance light travels in one year."
+  },
+  "relativity": {
+    "keywords": [
+      "relativity",
+      "einstein relativity",
+      "general relativity",
+      "special relativity",
+      "einstein theory"
+    ],
+    "answer": "<strong>Einstein's theories of relativity</strong> revolutionized physics. Special Relativity (1905) showed that space and time are relative — the faster you move, the slower time passes and the shorter distances become. General Relativity (1915) described gravity as the curvature of spacetime, predicting black holes, gravitational waves, and the bending of light around massive objects."
+  },
+  "lightyear": {
+    "keywords": [
+      "light year",
+      "light-year",
+      "ly",
+      "distance light travels",
+      "astronomical distance"
+    ],
+    "answer": "A <strong>light-year</strong> is the distance that light travels in one year, about 9.46 trillion kilometers (5.88 trillion miles). Despite the name, it's a unit of distance, not time. The nearest star to Earth (after the Sun) is Proxima Centauri, about 4.2 light-years away."
+  },
+  "parsec": {
+    "keywords": [
+      "parsec",
+      "parsec distance",
+      "pc",
+      "kiloparsec",
+      "megaparsec",
+      "astronomical unit"
+    ],
+    "answer": "A <strong>parsec</strong> (pc) is about 3.26 light-years or 31 trillion kilometers, defined as the distance at which one astronomical unit subtends an angle of one arcsecond. Astronomers use kiloparsecs (kpc) for galaxy scales and megaparsecs (Mpc) for intergalactic distances. The Milky Way is about 30 kpc across."
+  },
+  "au": {
+    "keywords": [
+      "au",
+      "astronomical unit",
+      "earth sun distance",
+      "astronomical unit defined"
+    ],
+    "answer": "An <strong>Astronomical Unit (AU)</strong> is the average distance between Earth and the Sun, about 150 million kilometers (93 million miles). It is used as a convenient ruler for measuring distances within the solar system. Jupiter orbits at about 5.2 AU, and Neptune at about 30 AU from the Sun."
+  },
+  "tidalforces": {
+    "keywords": [
+      "tidal forces",
+      "tidal heating",
+      "tides",
+      "gravity gradient",
+      "tidal locking"
+    ],
+    "answer": "<strong>Tidal forces</strong> occur when gravity varies across an object, stretching it. On Earth, the Moon's tidal force creates our ocean tides. Tidal heating can make moons like Io extremely volcanically active, while tidal locking causes the same face of the Moon to always face Earth. Extreme tidal forces near black holes can cause spaghettification."
+  },
+  "escapevelocity": {
+    "keywords": [
+      "escape velocity",
+      "escape speed",
+      "leaving earth",
+      "rocket speed"
+    ],
+    "answer": "<strong>Escape velocity</strong> is the minimum speed needed for an object to break free from a planet's gravitational pull without further propulsion. On Earth, it's about 11.2 km/s (40,000 km/h). This depends on the mass and radius of the planet — it's just 2.4 km/s on the Moon but an immense 618 km/s on a neutron star."
+  },
+  "nasa": {
+    "keywords": [
+      "nasa",
+      "national aeronautics and space administration",
+      "american space agency",
+      "us space agency"
+    ],
+    "answer": "<strong>NASA</strong> (National Aeronautics and Space Administration) was established in 1958 and has led American space exploration ever since. It achieved the Apollo Moon landings, launched the Hubble and James Webb space telescopes, landed robots on Mars, and sent probes to every planet in the solar system. NASA's Artemis program aims to return humans to the Moon."
+  },
+  "esa": {
+    "keywords": [
+      "esa",
+      "european space agency",
+      "europe space",
+      "european space"
+    ],
+    "answer": "The <strong>European Space Agency</strong> is an intergovernmental organization of 22 member states dedicated to space exploration. It built the Ariane rocket family, launched the Rosetta comet-chasing mission, and developed the Huygens probe that landed on Titan. ESA collaborates closely with NASA on projects like the James Webb Space Telescope and Cassini-Huygens."
+  },
+  "roscosmos": {
+    "keywords": [
+      "roscosmos",
+      "russian space agency",
+      "russian space",
+      "russia space"
+    ],
+    "answer": "<strong>Roscosmos</strong> is the Russian space agency responsible for the Soyuz spacecraft — the most reliable and most-flown crewed vehicle in history. It has been a key partner on the ISS since its inception. Russia has a long space heritage from the Soviet era, including launching the first satellite (Sputnik) and the first human (Yuri Gagarin)."
+  },
+  "cnsa": {
+    "keywords": [
+      "cnsa",
+      "china space",
+      "chinese space agency",
+      "china national space"
+    ],
+    "answer": "<strong>CNSA</strong> (China National Space Administration) has rapidly advanced in space exploration, achieving the first Moon landing on the far side with Chang'e-4 and returning Moon samples with Chang'e-6. China completed its own space station Tiangong in 2023 and has landed rovers on Mars with Tianwen-1. They plan crewed lunar missions by 2030."
+  },
+  "isro": {
+    "keywords": [
+      "isro",
+      "indian space research",
+      "india space",
+      "indian space agency"
+    ],
+    "answer": "<strong>ISRO</strong> (Indian Space Research Organisation) is renowned for its highly cost-effective space missions, including the Mars Orbiter Mission (Mangalyaan) that made India the first nation to reach Mars on its first attempt. ISRO launched the Chandrayaan program to explore the Moon and holds the record for launching the most satellites in a single mission (104)."
+  },
+  "gagarin": {
+    "keywords": [
+      "yuri gagarin",
+      "gagarin",
+      "first man in space",
+      "first human in space",
+      "vostok 1"
+    ],
+    "answer": "<strong>Yuri Gagarin</strong> became the first human to journey into space on April 12, 1961, aboard Vostok 1. He orbited Earth once in 108 minutes at a maximum altitude of 327 km. His famous words during launch were \"Poyekhali!\" (Let's go!). Gagarin tragically died in a jet crash in 1968 at age 34."
+  },
+  "armstrong": {
+    "keywords": [
+      "neil armstrong",
+      "armstrong",
+      "first man on moon",
+      "first moon landing",
+      "apollo 11"
+    ],
+    "answer": "<strong>Neil Armstrong</strong> was the first human to set foot on the Moon on July 20, 1969, as commander of Apollo 11. His first words on the lunar surface were \"That's one small step for a man, one giant leap for mankind.\" He was a naval aviator, test pilot, and aerospace engineer before becoming an astronaut."
+  },
+  "tereshkova": {
+    "keywords": [
+      "valentina tereshkova",
+      "tereshkova",
+      "first woman in space",
+      "female astronaut"
+    ],
+    "answer": "<strong>Valentina Tereshkova</strong> became the first woman in space on June 16, 1963, aboard Vostok 6. She spent nearly 3 days in orbit and remains the only woman to have flown a solo space mission. After her historic flight, she became a prominent political figure in the Soviet Union."
+  },
+  "spacehistory": {
+    "keywords": [
+      "space history",
+      "space race",
+      "cold war space",
+      "sputnik",
+      "laika",
+      "first satellite"
+    ],
+    "answer": "The <strong>Space Age</strong> began on October 4, 1957, with the Soviet Union's launch of Sputnik 1, the first artificial satellite. The Space Race between the US and USSR drove rapid advances: first human (Gagarin 1961), first Moon landing (Apollo 11, 1969), and first space station (Salyut 1, 1971). This competition fundamentally shaped modern space exploration."
+  },
+  "spaceshuttle": {
+    "keywords": [
+      "space shuttle",
+      "shuttle program",
+      "sts",
+      "space transportation system"
+    ],
+    "answer": "NASA's <strong>Space Shuttle</strong> program operated from 1981 to 2011, flying 135 missions with reusable orbiter vehicles. It carried astronauts, deployed satellites like Hubble, and helped build the ISS. Five shuttles flew: Columbia, Challenger, Discovery, Atlantis, and Endeavour, with two tragically lost in accidents (Challenger 1986, Columbia 2003)."
+  },
+  "constellation_orion": {
+    "keywords": [
+      "orion constellation",
+      "orion the hunter",
+      "orion stars",
+      "betelgeuse",
+      "rigel"
+    ],
+    "answer": "<strong>Orion</strong> is one of the most recognizable constellations in the night sky, named after a hunter from Greek mythology. Its bright stars include Betelgeuse (a red supergiant) and Rigel (a blue supergiant). Orion's Belt — three aligned stars — is a useful celestial landmark for finding other stars."
+  },
+  "constellation_ursamajor": {
+    "keywords": [
+      "ursa major",
+      "big dipper",
+      "great bear",
+      "ursa major constellation",
+      "big bear"
+    ],
+    "answer": "<strong>Ursa Major</strong> (the Great Bear) contains the famous Big Dipper asterism — seven bright stars that look like a ladle. Its stars Merak and Dubhe point directly to Polaris, the North Star. Ursa Major is visible year-round in the northern hemisphere and has been used for navigation for centuries."
+  },
+  "constellation_cassiopeia": {
+    "keywords": [
+      "cassiopeia",
+      "cassiopeia constellation",
+      "w constellation",
+      "queen constellation"
+    ],
+    "answer": "<strong>Cassiopeia</strong> is a distinctive W-shaped constellation in the northern sky, named after the vain queen in Greek mythology. It contains several notable deep-sky objects, including the Cassiopeia A supernova remnant and open clusters. Cassiopeia is circumpolar in northern latitudes, meaning it never sets."
+  },
+  "constellation_scorpius": {
+    "keywords": [
+      "scorpius",
+      "scorpius constellation",
+      "scorpion constellation",
+      "antares"
+    ],
+    "answer": "<strong>Scorpius</strong> is a zodiac constellation shaped like a scorpion, with the bright red supergiant Antares marking its heart. It is best visible in summer in the northern hemisphere and contains many bright star clusters including the Butterfly Cluster (M6) and Ptolemy Cluster (M7)."
+  },
+  "solarsystemformation": {
+    "keywords": [
+      "solar system formation",
+      "how solar system formed",
+      "nebular hypothesis",
+      "solar nebula",
+      "formation of planets"
+    ],
+    "answer": "Our solar system formed about 4.6 billion years ago from a collapsing cloud of gas and dust called the <strong>solar nebula</strong>. The Sun formed at the center while the remaining material coalesced into planets, moons, asteroids, and comets. The inner planets became rocky from heavier elements, while the outer planets grew massive and captured gas to become giants."
+  },
+  "spacesonification": {
+    "keywords": [
+      "space sounds",
+      "sonification",
+      "space music",
+      "listening to space",
+      "sound in space",
+      "space audio"
+    ],
+    "answer": "<strong>Sonification</strong> is the process of translating data into sound, allowing us to hear the universe. Since space is a vacuum, sound waves cannot travel — but scientists convert radio waves, plasma waves, and magnetic field data into audible frequencies. NASA has released stunning sonifications of black holes, nebulae, and the Sun's magnetic activity."
+  },
+  "lifeinspace": {
+    "keywords": [
+      "life in space",
+      "living in space",
+      "astronaut health",
+      "microgravity effects",
+      "space life"
+    ],
+    "answer": "Living in <strong>microgravity</strong> affects the human body: muscles atrophy, bones lose density, fluids shift causing puffy faces, and height can increase by up to 5 cm as the spine expands. Astronauts exercise 2 hours daily to counteract these effects. Food in space must be specially prepared to prevent crumbs from floating and damaging equipment."
+  },
+  "growingfood": {
+    "keywords": [
+      "growing food in space",
+      "space farming",
+      "plants in space",
+      "space agriculture",
+      "space garden"
+    ],
+    "answer": "Astronauts on the ISS have successfully grown lettuce, radishes, chili peppers, and tomatoes in space using hydroponic systems. Plants require carefully controlled light, water, and atmosphere in microgravity. Growing fresh food is essential for long-duration missions to Mars, providing nutrition and psychological benefits for crew members."
+  },
+  "microgravity": {
+    "keywords": [
+      "microgravity",
+      "zero gravity",
+      "weightlessness",
+      "free fall",
+      "floating in space"
+    ],
+    "answer": "<strong>Microgravity</strong> is not the absence of gravity but rather a state of free fall where gravity's effects are not felt. The ISS experiences about 90% of Earth's gravity — the crew floats because both they and the station are falling together. Microgravity enables unique scientific experiments impossible on Earth, from protein crystal growth to fluid dynamics."
+  },
+  "spacefacts": {
+    "keywords": [
+      "fun facts",
+      "space facts",
+      "interesting space facts",
+      "cool space facts",
+      "did you know space"
+    ],
+    "answer": "Did you know? A day on Venus lasts longer than a year on Venus (243 Earth days vs 225). There are more stars in the universe than grains of sand on all Earth's beaches. A teaspoon of neutron star material would weigh about 10 million tons. Footprints on the Moon will last for millions of years since there is no wind or water erosion. Space is completely silent."
+  },
+  "magnetosphere": {
+    "keywords": [
+      "magnetosphere",
+      "earth magnetic field",
+      "magnetic shield",
+      "van allen belts",
+      "geomagnetic field"
+    ],
+    "answer": "Earth's <strong>magnetosphere</strong> is the region of space dominated by our planet's magnetic field, shielding us from harmful solar wind and cosmic radiation. It extends about 65,000 km toward the Sun and stretches into a long tail on the night side. Without it, Earth's atmosphere would be stripped away — as happened to Mars. Auroras are beautiful displays of solar particles interacting with the magnetosphere."
+  },
+  "atmosphere": {
+    "keywords": [
+      "earth atmosphere",
+      "atmosphere layers",
+      "troposphere",
+      "stratosphere",
+      "mesosphere",
+      "thermosphere",
+      "exosphere"
+    ],
+    "answer": "Earth's <strong>atmosphere</strong> is a thin layer of gases (78% nitrogen, 21% oxygen, 1% others) that extends about 480 km above the surface. It has layers: the troposphere (weather), stratosphere (ozone layer), mesosphere (meteors burn up), thermosphere (auroras and ISS orbit), and exosphere (fading into space). The atmosphere protects life from harmful solar radiation and keeps our planet warm."
+  },
+  "spacetelescopes": {
+    "keywords": [
+      "space telescopes",
+      "observatories in space",
+      "orbiting telescopes",
+      "space observatory"
+    ],
+    "answer": "<strong>Space telescopes</strong> orbit above Earth's atmosphere, providing crystal-clear views without atmospheric distortion, light pollution, or weather interference. Major space observatories include Hubble (visible/ultraviolet), James Webb (infrared), Chandra (X-ray), Fermi (gamma-ray), Spitzer (infrared), and TESS (exoplanet hunter). Each wavelength reveals different aspects of the cosmos."
+  },
+  "greetings": {
+    "keywords": [
+      "hello",
+      "hi",
+      "hey",
+      "greetings",
+      "good morning",
+      "good evening",
+      "howdy",
+      "sup",
+      "yo"
+    ],
+    "answer": "Hello, space explorer! I'm your <strong>AstroBot</strong> guide to the cosmos. Ask me about planets, stars, galaxies, black holes, space missions, or anything about the universe! Type <strong>help</strong> to see what I can do."
+  },
+  "help": {
+    "keywords": [
+      "help",
+      "what can you do",
+      "commands",
+      "what do you know",
+      "capabilities",
+      "features"
+    ],
+    "answer": "I'm an <strong>AstroBot</strong> with 247 topics in my head, covering:<br>🪐 Planets, moons, dwarf planets & small bodies<br>⭐ Stars, black holes, pulsars, quasars & galaxies<br>🌌 The universe: Big Bang, dark matter, expansion & cosmology<br>🚀 <strong>Rockets & aerospace</strong>: how rockets work, staging, engines, orbits, reentry<br>🛰️ Satellites: GPS/NavIC, mega-constellations, space debris<br>🛸 Missions: Apollo, Voyager, JWST, Chandrayaan, Mangalyaan, Europa Clipper & more<br>🌠 Space weather: flares, auroras, radiation belts<br>👨‍🚀 Human spaceflight: spacewalks, stations, tourism, future colonies<br><br>You can also just say <strong>hi</strong>, ask for a <strong>space joke</strong> or a <strong>random space fact</strong>!<br>Just ask in plain English!"
+  },
+  "thanks": {
+    "keywords": [
+      "thanks",
+      "thank you",
+      "thankyou",
+      "thx",
+      "appreciate it",
+      "cheers",
+      "ty"
+    ],
+    "answer": "You're welcome, space explorer! Feel free to ask more questions about the cosmos at any time. The universe is full of wonders waiting to be discovered!"
+  },
+  "solarwind": {
+    "keywords": [
+      "solar wind",
+      "solar particles",
+      "coronal mass ejection",
+      "solar flare",
+      "space weather",
+      "stellar wind"
+    ],
+    "answer": "<strong>Solar wind</strong> is a continuous stream of charged particles flowing from the Sun at speeds of 300-800 km/s. During solar flares and coronal mass ejections, the solar wind intensifies, sometimes causing geomagnetic storms on Earth that create brilliant auroras but can also damage satellites and power grids."
+  },
+  "sundistance": {
+    "keywords": [
+      "distance from earth to sun",
+      "earth sun distance",
+      "how far is sun",
+      "sun distance",
+      "1 au"
+    ],
+    "answer": "Earth is about <strong>150 million kilometers</strong> (93 million miles) from the Sun, defined as 1 Astronomical Unit (AU). Light from the Sun takes about 8 minutes and 20 seconds to reach us. This distance is just right for liquid water to exist on Earth's surface."
+  },
+  "spacefood": {
+    "keywords": [
+      "space food",
+      "astronaut food",
+      "eating in space",
+      "space cuisine",
+      "freeze dried",
+      "astronaut meals"
+    ],
+    "answer": "<strong>Space food</strong> has evolved from pureed tubes and bite-sized cubes in the 1960s to gourmet meals today. Astronauts eat from trays with magnets to keep utensils in place. Most food is freeze-dried or thermostabilized, requiring rehydration with water. Tortillas replaced bread to avoid crumbs. Salt and pepper are only available as liquids to prevent floating grains."
+  },
+  "spacesuit": {
+    "keywords": [
+      "space suit",
+      "spacesuit",
+      "eva suit",
+      "extravehicular activity",
+      "spacewalk"
+    ],
+    "answer": "A <strong>spacesuit</strong> is essentially a personal spacecraft that provides oxygen, temperature regulation, pressure, and protection from radiation and micrometeoroids during spacewalks. A modern NASA spacesuit costs about $12 million and takes hours to put on. Astronauts must pre-breathe pure oxygen to prevent decompression sickness before going outside."
+  },
+  "nova": {
+    "keywords": [
+      "nova",
+      "classical nova",
+      "thermonuclear nova",
+      "nova explosion",
+      "white dwarf nova",
+      "nova eruption"
+    ],
+    "answer": "A <strong>nova</strong> is a dramatic, sudden brightening of a star caused by a thermonuclear explosion on the surface of a <strong>white dwarf</strong> in a binary system. The white dwarf pulls hydrogen-rich material from its companion star until the accumulated layer ignites in a runaway fusion reaction, briefly increasing the star's brightness by thousands to millions of times. Unlike a supernova, the white dwarf survives the explosion, and the process can repeat indefinitely — some novae recur every few decades. Famous novae include Nova Cygni 1975, Nova Delphini 2013, and recurrent nova RS Ophiuchi. The word \"nova\" means \"new\" in Latin because they appear as bright new stars in the night sky."
+  },
+  "supernova": {
+    "keywords": [
+      "supernova",
+      "supernovae",
+      "supernova explosion",
+      "star explosion",
+      "dying star",
+      "supernova type",
+      "stellar explosion",
+      "core collapse",
+      "type ia supernova",
+      "type ii supernova"
+    ],
+    "answer": "A <strong>supernova</strong> is the most powerful explosion in the universe — the catastrophic death of a star that briefly outshines an entire galaxy. There are two main types:<br><br>• <strong>Type II (core-collapse) supernova</strong>: A massive star (>8× Sun's mass) exhausts its nuclear fuel, its core collapses into a neutron star or black hole, and the outer layers are blasted into space at up to 30,000 km/s. These mark the end of short-lived massive stars like blue giants and supergiants.<br><br>• <strong>Type Ia supernova</strong>: A white dwarf in a binary system accretes too much mass from its companion, exceeding the Chandrasekhar limit (1.4 solar masses), triggering a runaway thermonuclear explosion that completely destroys the white dwarf. These are used as \"standard candles\" to measure cosmic distances — observations of Ia supernovae led to the discovery of dark energy (2011 Nobel Prize).<br><br>A supernova can briefly outshine all other stars in its galaxy combined and enriches the surrounding space with heavy elements like iron, gold, and uranium — as Carl Sagan said, \"We are made of star stuff.\" The most recent naked-eye supernova in our galaxy was SN 1604 (Kepler's Supernova), though SN 1987A in the Large Magellanic Cloud was visible from the southern hemisphere. Famous supernova remnants include the Crab Nebula (1054 AD), Cassiopeia A, and the Veil Nebula."
+  },
+  "gammarayburst": {
+    "keywords": [
+      "gamma ray burst",
+      "grb",
+      "gamma burst",
+      "most powerful explosion",
+      "cosmic explosion"
+    ],
+    "answer": "<strong>Gamma-ray bursts (GRBs)</strong> are the most powerful explosions in the universe, releasing more energy in seconds than the Sun will emit in its entire 10-billion-year lifetime. They are caused by massive star collapses or neutron star mergers. A GRB within 5,000 light-years could potentially strip Earth's ozone layer."
+  },
+  "gravitationalwaves": {
+    "keywords": [
+      "gravitational waves",
+      "ligo",
+      "ripples in spacetime",
+      "gravity waves",
+      "gravitational wave detection"
+    ],
+    "answer": "<strong>Gravitational waves</strong> are ripples in the fabric of spacetime caused by accelerating massive objects, first directly detected by LIGO in 2015 from two merging black holes 1.3 billion light-years away. This discovery earned the 2017 Nobel Prize and opened a completely new way of observing the universe. Merging neutron stars and supernovae also produce these waves."
+  },
+  "howrocketswork": {
+    "keywords": [
+      "how rockets work",
+      "rocket engine",
+      "rocket propulsion",
+      "thrust",
+      "how do rockets fly",
+      "rocket principle",
+      "how do rockets work",
+      "rocket",
+      "what is a rocket"
+    ],
+    "answer": "<strong>Rockets work by Newton's third law</strong> — expelling hot gas from a nozzle pushes the rocket in the opposite direction. They carry BOTH fuel and oxidizer (unlike planes), which is why they can fly where there is no air. A rocket's exhaust leaves the nozzle at 3-4 km/s, and the rocket's engine can produce thrust equal to lifting several hundred tonnes."
+  },
+  "rocketstaging": {
+    "keywords": [
+      "staging",
+      "stage separation",
+      "multistage rocket",
+      "two stage rocket",
+      "drop the spent stage"
+    ],
+    "answer": "<strong>Staging</strong> is why rockets have multiple sections: each spent stage is dropped mid-flight so the remaining rocket doesn't haul heavy empty tanks. This lets the upper stage reach orbit far more efficiently. Falcon 9, Saturn V and almost every orbital rocket since 1957 use staging."
+  },
+  "rocketequation": {
+    "keywords": [
+      "delta-v",
+      "tsiolkovsky",
+      "rocket equation",
+      "delta v budget",
+      "how much fuel to reach orbit"
+    ],
+    "answer": "The <strong>Tsiolkovsky rocket equation</strong> says the velocity a rocket can gain (delta-v) grows with the natural log of how much of the rocket is fuel. Going to orbit needs about 9.3 km/s of delta-v — which is why rockets are typically 85-90% fuel by mass!"
+  },
+  "fueltypes": {
+    "keywords": [
+      "solid fuel",
+      "liquid fuel",
+      "solid rocket booster",
+      "kerosene fuel",
+      "rp-1",
+      "hypergolic",
+      "rocket fuel types"
+    ],
+    "answer": "Rocket propellants come in families: <strong>solid</strong> (packed into booster cylinders — simple but can't be throttled), <strong>liquid kerosene + liquid oxygen</strong> (Falcon 9, PSLV first stages), <strong>liquid hydrogen</strong> (most efficient chemical fuel — shuttle, Ariane 5), and <strong>hypergolics</strong> (ignite on contact — great for deep space thrusters but very toxic)."
+  },
+  "cryogenicengine": {
+    "keywords": [
+      "cryogenic engine",
+      "liquid hydrogen engine",
+      "lh2 lox",
+      "coldest rocket fuel",
+      "indian cryogenic engine"
+    ],
+    "answer": "<strong>Cryogenic engines</strong> burn fuel and oxidizer kept below -150°C (liquid hydrogen at -253°C, liquid oxygen at -183°C). They deliver the highest chemical efficiency but are notoriously hard to handle. India's ISRO mastered this technology indigenously after US restrictions in the 1990s — the C25 engine powers the LVM3 upper stage."
+  },
+  "ionthrust": {
+    "keywords": [
+      "ion thruster",
+      "electric propulsion",
+      "ion drive",
+      "hall effect",
+      "plasma engine"
+    ],
+    "answer": "<strong>Ion thrusters</strong> accelerate charged gas (usually xenon) with electric fields instead of burning fuel — exhaust speeds of up to 30-50 km/s vs ~4 km/s for chemical rockets. The thrust is paper-weak (gentle breeze level) but it runs for months nonstop, which is how deep-space missions like Dawn, Psyche and BepiColombo travel so efficiently."
+  },
+  "solarsail": {
+    "keywords": [
+      "solar sail",
+      "lightsail",
+      "photon pressure",
+      "sail based propulsion"
+    ],
+    "answer": "A <strong>solar sail</strong> pushes on sunlight itself — photons carry tiny momentum, but a mirror-thin sail hundreds of metres wide can accumulate real thrust for free, forever. Japan's IKAROS proved the idea in 2010, and NASA's LightSail 2 flew successfully using only sunlight."
+  },
+  "reentryheatshield": {
+    "keywords": [
+      "heat shield",
+      "reentry",
+      "why spacecraft burn up",
+      "ablative heat shield",
+      "plasma reentry"
+    ],
+    "answer": "Returning from orbit means hitting the atmosphere at ~8 km/s. The craft <strong>slams into air so hard that air turns to 1,600°C+ plasma</strong>, and a specially designed heat shield (ablative material that burns away, or a reusable tile system) takes the heat instead of the crew. SpaceX Starship and Space Shuttle reenter without burning because of these shields."
+  },
+  "aerobraking": {
+    "keywords": [
+      "aerobraking",
+      "aerocapture",
+      "use the atmosphere to slow"
+    ],
+    "answer": "<strong>Aerobraking</strong> lets a spacecraft slow down gravitationally-free by skimming the upper atmosphere of a planet — each pass shears a little orbital energy away. Mars Global Surveyor and Venus Express each spent months aerobraking instead of hauling extra fuel to their destinations."
+  },
+  "hohmanntransfer": {
+    "keywords": [
+      "hohmann transfer",
+      "transfer orbit",
+      "orbital maneuver",
+      "orbit raising",
+      "how spacecraft change orbit"
+    ],
+    "answer": "The <strong>Hohmann transfer</strong> is the fuel-cheapest way to climb between two circular orbits: fire your engine once at perigee, coast on an elliptical arc, and fire again at arrival. It's the standard maneuver for raising satellites to GEO and planning interplanetary journeys."
+  },
+  "launchwindow": {
+    "keywords": [
+      "launch window",
+      "launch timing",
+      "why launch at exact time",
+      "launch date"
+    ],
+    "answer": "A <strong>launch window</strong> is the specific time when a rocket can leave Earth and actually catch up with its target — a space station passing overhead, or a planet bringing itself into range. Miss planets too far apart, and it can be months (Mars) or over a year between windows!"
+  },
+  "gravityassist": {
+    "keywords": [
+      "gravity assist",
+      "slingshot",
+      "flyby maneuver",
+      "swing by",
+      "how voyager got speed"
+    ],
+    "answer": "A <strong>gravity assist</strong> borrows speed from a moving planet: the spacecraft falls in, and the planet's orbital motion 'flicks' it off faster — while slowing the planet imperceptibly. Voyager 2 used Jupiter, Saturn and Uranus as successive gravity slingshots, letting a 1977 rocket reach Neptune in 1989."
+  },
+  "karmanline": {
+    "keywords": [
+      "karman line",
+      "edge of space",
+      "100 km altitude",
+      "where does space begin",
+      "how high is space"
+    ],
+    "answer": "The <strong>Kármán line at 100 km</strong> is the conventional boundary of space, set where the atmosphere becomes too thin to support aerodynamic flight. Fighter jets reach ~40 km, research balloons ~35-50 km, and the ISS orbits at 400 km — so 'space' officially starts at 100 km."
+  },
+  "orbits": {
+    "keywords": [
+      "leo",
+      "geo",
+      "meo",
+      "geostationary orbit",
+      "polar orbit",
+      "sun synchronous",
+      "low earth orbit",
+      "types of orbit"
+    ],
+    "answer": "Engineers pick orbits like addresses: <strong>LEO</strong> (300-2,000 km — ISS, Starlink, imaging), <strong>MEO</strong> (~20,000 km — GPS), <strong>GEO</strong> (35,786 km — satellites that appear fixed over one spot, great for TV), <strong>polar/sun-synchronous</strong> (pass every point at the same local solar time — ideal for Earth observation)."
+  },
+  "geostationary": {
+    "keywords": [
+      "geostationary satellite",
+      "gso",
+      "satellite stays fixed",
+      "why tv satellites don't move"
+    ],
+    "answer": "A <strong>geostationary satellite</strong> sits exactly 35,786 km up over the equator and takes 23h 56min to circle Earth — the same as Earth's rotation — so it appears to hover motionless. That's why your TV dish points at one fixed spot permanently."
+  },
+  "docking": {
+    "keywords": [
+      "docking",
+      "rendezvous",
+      "spacecraft docking",
+      "how spacecraft meet",
+      "berthing"
+    ],
+    "answer": "<strong>Docking</strong> means two spacecraft flying at 7.6 km/s in orbit meet perfectly at centimetre scale. Rendezvous is the gradual closing of distance over orbits; docking is the final connection. The ISS is regularly visited by SpaceX Dragon and Russian Soyuz, both docking autonomously."
+  },
+  "spacedebris": {
+    "keywords": [
+      "space debris",
+      "space junk",
+      "kessler syndrome",
+      "defunct satellite",
+      "orbital debris"
+    ],
+    "answer": "<strong>Space debris</strong> is discarded boosters, dead satellites and fragments — over 36,000 tracked objects plus millions of smaller shards, all orbiting at bullet speeds. The fear is <strong>Kessler syndrome</strong>: a collision creates more debris, which causes more collisions, chaining into a hazardous cloud. Cleanup concepts include magnetic chasers and drag sails."
+  },
+  "starlink": {
+    "keywords": [
+      "starlink",
+      "satellite internet",
+      "mega constellation",
+      "satellite broadband"
+    ],
+    "answer": "<strong>Starlink</strong> is SpaceX's internet mega-constellation — thousands of small satellites in low Earth orbit providing broadband to remote areas. Each satellite orbits just ~550 km up (giving low latency) and is refreshed continuously as older ones deorbit."
+  },
+  "satellitetypes": {
+    "keywords": [
+      "type of satellite",
+      "satellite types",
+      "weather satellite",
+      "communication satellite",
+      "spy satellite",
+      "how do satellites work",
+      "how satellites work",
+      "satellite",
+      "what is a satellite"
+    ],
+    "answer": "Satellite families by job: <strong>communication</strong> (TV, phone relays), <strong>navigation</strong> (GPS, NavIC, BeiDou), <strong>Earth observation</strong> (weather, agriculture, military imaging), <strong>science</strong> (Hubble looking up, GOES looking down), and <strong>technology testbeds</strong>. All orbit on Newton's gravity — moving fast enough sideways (~7.5 km/s) that they keep falling but keep missing Earth."
+  },
+  "cubesat": {
+    "keywords": [
+      "cubesat",
+      "nanosatellite",
+      "small satellite",
+      "student satellite",
+      "pocket satellite"
+    ],
+    "answer": "A <strong>CubeSat</strong> is a tiny modular satellite — the classic 1U form is literally a 10 cm cube. Universities and startups launch them as rideshare payloads for thousands of dollars instead of millions, which has democratized space science. Over 2,000 CubeSats have now flown."
+  },
+  "launchescape": {
+    "keywords": [
+      "launch escape system",
+      "abort system",
+      "crew abort",
+      "pad abort",
+      "escape tower"
+    ],
+    "answer": "A <strong>launch escape system</strong> is the emergency eject for astronauts: a small dedicated rocket (or the capsule's own thrusters) that yanks the crew capsule away in under 3 seconds if the main rocket fails. Soyuz LES famously saved two crews in 1975 and 1983 — and Crew Dragon proved its system during an actual flying abort in 2020."
+  },
+  "falcon9": {
+    "keywords": [
+      "falcon 9",
+      "falcon heavy",
+      "booster landing",
+      "drone ship",
+      "first stage landing",
+      "reusable rocket landing"
+    ],
+    "answer": "<strong>Falcon 9</strong> is SpaceX's workhorse — the first orbital rocket to land its first stage intact and fly it again, doing so routinely over 300+ times. Landing either on a Coastal pad or an ocean drone ship, reused boosters cut launch cost dramatically. Falcon Heavy is the bigger sibling: three Falcon-9 cores strapped together."
+  },
+  "starship": {
+    "keywords": [
+      "starship",
+      "super heavy",
+      "biggest rocket",
+      "starship mars",
+      "starship launch tower"
+    ],
+    "answer": "<strong>Starship</strong> is SpaceX's fully-reusable tall rocket (124 m with Super Heavy booster) designed to carry up to 100 future crew or cargo to Mars, the Moon, and giant orbits. It made its first orbital test flight in 2023 and iterated quickly — the concept is that both stages land vertically and refly within hours."
+  },
+  "sls": {
+    "keywords": [
+      "space launch system",
+      "sls rocket",
+      "artemis rocket",
+      "nasa mega rocket",
+      "orion capsule launch"
+    ],
+    "answer": "NASA's <strong>Space Launch System (SLS)</strong> is the most powerful rocket America has built — more thrust than the Saturn V — and is the launcher chosen to send Orion capsules on Artemis Moon missions. It uses leftover Space Shuttle engines, boosters and tooling, which is why it looks like a taller shuttle-derived rocket."
+  },
+  "arianerocket": {
+    "keywords": [
+      "ariane",
+      "ariane 5",
+      "ariane 6",
+      "european rocket",
+      "europe spaceport"
+    ],
+    "answer": "Europe's <strong>Ariane rockets</strong> launched most of the world's commercial satellites for decades. Ariane 5 flew for 27 years with an outstanding record; Ariane 6 took over in 2024 with a cheaper modular design, launching from French Guiana on the Equator-adjacent Kourou spaceport."
+  },
+  "rocketpioneers": {
+    "keywords": [
+      "goddard",
+      "von braun",
+      "tsiolkovsky inventor",
+      "korolev",
+      "oberth",
+      "rocketry pioneers",
+      "father of rocketry",
+      "who invented rocket"
+    ],
+    "answer": "The four titans of rocketry: <strong>Konstantin Tsiolkovsky</strong> wrote the rocket equation (1903), <strong>Robert Goddard</strong> launched the first liquid-fuel rocket (1926, 2.5 seconds — a world-changing flight), <strong>Wernher von Braun</strong> designed the monumental Saturn V, and <strong>Sergei Korolev</strong> secretly engineered Sputnik, Gagarin's flight and early Soviet dominance."
+  },
+  "sputnik": {
+    "keywords": [
+      "sputnik",
+      "first satellite",
+      "october 1957",
+      "first artificial satellite"
+    ],
+    "answer": "<strong>Sputnik 1</strong> launched on 4 October 1957 — a 58 cm metal sphere that became the first artificial satellite ever. Its radio beeps shocked the world and ignited the Space Race, directly triggering the creation of NASA a year later."
+  },
+  "laika": {
+    "keywords": [
+      "laika",
+      "space dog",
+      "first animal in space",
+      "first animal in orbit"
+    ],
+    "answer": "<strong>Laika</strong>, a stray Moscow dog, became the first animal to orbit Earth aboard Sputnik 2 (1957). She proved living beings could survive launch and weightlessness — paving the way for human spaceflight."
+  },
+  "geminiprogram": {
+    "keywords": [
+      "gemini program",
+      "project gemini",
+      "gemini missions",
+      "gemini spacecraft"
+    ],
+    "answer": "NASA's <strong>Gemini program</strong> (1965-66) was the essential middle step to the Moon: practicing spacewalks, orbital rendezvous and docking — the skills Apollo needed. Gemini 8 performed the first docking in orbit, famously almost ending in disaster before Neil Armstrong steadied it."
+  },
+  "skylab": {
+    "keywords": [
+      "skylab",
+      "first american space station",
+      "us space station 1973"
+    ],
+    "answer": "<strong>Skylab</strong> was America's first space station (1973-74), built from a converted rocket stage. Three three-astronaut crews ran science in orbit for up to 84 days at a stretch. It reentered over Australia in 1979."
+  },
+  "mir": {
+    "keywords": [
+      "mir",
+      "mir space station",
+      "russian station",
+      "station 1986"
+    ],
+    "answer": "<strong>Mir</strong> was the Soviet/Russian long-lived space station (1986-2001) that proved humans could live in orbit continuously for over a year. It survived fires and a collision, and ended with a beautifully controlled reentry over the Pacific."
+  },
+  "tiangong": {
+    "keywords": [
+      "tiangong",
+      "chinese space station",
+      "heavenly palace"
+    ],
+    "answer": "<strong>Tiangong</strong> ('Heavenly Palace') is China's modular orbital station, completed in orbit in 2022. About a quarter the mass of the ISS, it hosts crews of three and science modules, and is planned to run through the 2030s."
+  },
+  "soyuz": {
+    "keywords": [
+      "soyuz",
+      "russian spacecraft",
+      "soyuz capsule",
+      "taxi to iss"
+    ],
+    "answer": "The Russian <strong>Soyuz capsule</strong> has flown since 1967 with continuous upgrades — the most-used crew spacecraft in history, carrying astronauts to Salyut, Mir and the ISS. Three seats, tight quarters, and a parachute landing on the Kazakh steppe."
+  },
+  "crewdragon": {
+    "keywords": [
+      "crew dragon",
+      "dragon capsule",
+      "demo-2",
+      "commercial crew"
+    ],
+    "answer": "SpaceX's <strong>Crew Dragon</strong> returned crew-launch capability to the US in 2020 after a nine-year gap, flying astronauts to the ISS commercially. It docks autonomously and lands under parachutes — and has also flown private crews."
+  },
+  "inspiration4": {
+    "keywords": [
+      "inspiration4",
+      "first all civilian crew",
+      "polaris"
+    ],
+    "answer": "<strong>Inspiration4</strong> (2021) was the first all-civilian orbital flight — four non-astronauts circled Earth for three days in a Crew Dragon, its docking port replaced by a huge cupola window."
+  },
+  "lunaprogram": {
+    "keywords": [
+      "luna program",
+      "luna 2",
+      "luna 9",
+      "soviet moon missions"
+    ],
+    "answer": "The Soviet <strong>Luna program</strong> stacked up Moon firsts: Luna 1 first flyby, Luna 2 first surface impact (1959), Luna 3 took the first photos of the far side, and Luna 9 made the first soft landing (1966)."
+  },
+  "changeprogram": {
+    "keywords": [
+      "change program",
+      "chinese moon mission",
+      "far side landing",
+      "change 4",
+      "yutu rover"
+    ],
+    "answer": "China's <strong>Chang'e missions</strong> set modern lunar firsts: Chang'e 4 made the first-ever far-side landing (2019), Chang'e 5 returned fresh samples (2020), and later missions mapped resources for long-term presence. The <strong>Yutu</strong> rovers carry the name of the moon goddess's jade rabbit."
+  },
+  "chandrayaan3": {
+    "keywords": [
+      "chandrayaan 3",
+      "chandrayaan",
+      "vikram lander",
+      "pragyan rover",
+      "lunar south pole landing",
+      "india moon landing",
+      "23 august 2023"
+    ],
+    "answer": "<strong>Chandrayaan-3</strong> landed India's Vikram lander and Pragyan rover near the lunar south pole on 23 August 2023 — making India the first country EVER to soft-land near that region, and only the fourth nation to soft-land on the Moon at all."
+  },
+  "chandrayaan1": {
+    "keywords": [
+      "chandrayaan 1",
+      "lunar water discovery",
+      "moon impact probe"
+    ],
+    "answer": "<strong>Chandrayaan-1</strong> (2008) launched India's first lunar mission and helped confirm <strong>water molecules on the Moon</strong> — a result that reshaped lunar science. India's Moon Impact Probe dropped to the surface as a technology demonstration, with NASA's Moon Mineralogy Mapper riding as a payload."
+  },
+  "mangalyaan": {
+    "keywords": [
+      "mangalyaan",
+      "mom",
+      "mars orbiter mission",
+      "first asian mars mission",
+      "india mars"
+    ],
+    "answer": "ISRO's <strong>Mangalyaan (Mars Orbiter Mission)</strong> made India the first Asian nation to orbit Mars in 2014 — on the first attempt, on a budget of about $74 million, famously cheaper than some films. It returned data for seven years, far beyond its six-month design life."
+  },
+  "adityal1": {
+    "keywords": [
+      "aditya l1",
+      "india solar mission",
+      "aditya"
+    ],
+    "answer": "<strong>Aditya-L1</strong> is ISRO's solar observatory (launched 2023), parked at the Sun-Earth L1 Lagrange point 1.5 million km sunward to study the corona, solar flares and space weather continuously, with no eclipse interruptions."
+  },
+  "gaganyaan": {
+    "keywords": [
+      "gaganyaan",
+      "indian crewed mission",
+      "vyommitra"
+    ],
+    "answer": "<strong>Gaganyaan</strong> is India's planned crewed orbital flight — three astronauts to low Earth orbit for up to a week, after an uncrewed test that carries <strong>Vyommitra</strong>, a female robot test passenger."
+  },
+  "navic": {
+    "keywords": [
+      "navic",
+      "indian gps",
+      "irnss",
+      "indian regional navigation"
+    ],
+    "answer": "<strong>NavIC</strong> (Navigation with Indian Constellation, IRNSS) is India's own satellite navigation system — seven GEO/MEO satellites covering India and surrounding sea lanes — with civil and marine alert messaging built in."
+  },
+  "gps": {
+    "keywords": [
+      "gps",
+      "how gps works",
+      "satellite navigation",
+      "trilateration"
+    ],
+    "answer": "<strong>GPS</strong> works by timing signals from ~31 satellites: your phone compares arrival times from 4+ satellites and solves for position to within metres. It's free, run on atomic clocks, and one of the most-used products of the space age."
+  },
+  "gnss": {
+    "keywords": [
+      "beidou",
+      "galileo navigation",
+      "glonass",
+      "gnss"
+    ],
+    "answer": "Four global satellite navigation systems exist: America's <strong>GPS</strong>, Russia's <strong>GLONASS</strong>, Europe's <strong>Galileo</strong>, and China's <strong>BeiDou</strong>. India adds regional <strong>NavIC</strong> — modern phones use all of them together for accuracy."
+  },
+  "vikings": {
+    "keywords": [
+      "viking",
+      "viking 1",
+      "viking 2",
+      "mars life 1976",
+      "first mars landers"
+    ],
+    "answer": "NASA's twin <strong>Viking landers</strong> (1976) made the first successful Mars landings — and ran life-detection experiments whose ambiguous results kept scientists arguing for decades. They also kept imaging the surface for years."
+  },
+  "opportunity": {
+    "keywords": [
+      "opportunity rover",
+      "spirit rover",
+      "opportunity"
+    ],
+    "answer": "NASA's twin rovers <strong>Spirit and Opportunity</strong> (2004) rewrote longevity records. Opportunity drove over 45 km across 14+ years — a Mars marathon — until a 2018 dust storm blocked its solar panels for good."
+  },
+  "galileomission": {
+    "keywords": [
+      "galileo spacecraft",
+      "jupiter orbiter 1995",
+      "galileo probe"
+    ],
+    "answer": "NASA's <strong>Galileo</strong> (1989-2003) was the first spacecraft to orbit Jupiter. It dropped a probe into Jupiter's clouds, revealed Europa's likely ocean beneath the ice, and watched comet Shoemaker-Levy 9 slam into Jupiter in 1994 before ending in a controlled plunge."
+  },
+  "juno": {
+    "keywords": [
+      "juno",
+      "juno jupiter",
+      "junocam"
+    ],
+    "answer": "NASA's <strong>Juno</strong> reached Jupiter in 2016 in a looping polar orbit, mapping cyclone clusters, deep winds and the magnetosphere. Its <strong>JunoCam</strong> shares raw images that the public turns into stunning processed art."
+  },
+  "parkersolar": {
+    "keywords": [
+      "parker solar probe",
+      "touch the sun",
+      "fastest spacecraft"
+    ],
+    "answer": "NASA's <strong>Parker Solar Probe</strong> has 'touched the Sun' — repeatedly flying inside the corona, closer than any craft ever, protected by a thick carbon heat shield. It also holds the human-made speed record, over 600,000 km/h."
+  },
+  "europaclipper": {
+    "keywords": [
+      "europa clipper",
+      "europa mission",
+      "europa ocean flybys"
+    ],
+    "answer": "NASA's <strong>Europa Clipper</strong> (launched 2024) will make dozens of close flybys to radar-sound Europa's ice shell, sample the plumes and ice for organic molecules, and characterize the ocean hiding beneath — one of the largest spacecraft NASA has built for planetary science."
+  },
+  "juice": {
+    "keywords": [
+      "juice",
+      "jupiter icy moons explorer",
+      "ganymede orbit"
+    ],
+    "answer": "ESA's <strong>JUICE (Jupiter Icy Moons Explorer)</strong> launched 2023 and will fly by Europa, Callisto and Ganymede — becoming the first craft to orbit a moon of another planet: <strong>Ganymede</strong>, a moon bigger than Mercury."
+  },
+  "lucymission": {
+    "keywords": [
+      "lucy",
+      "trojan asteroids",
+      "jupiter trojans"
+    ],
+    "answer": "NASA's <strong>Lucy</strong> (2021) is on a 12-year tour of <strong>Jupiter's Trojan asteroids</strong> — two swarms of ancient material trapped 60° ahead of and behind the giant planet — visiting more independent targets than any mission before."
+  },
+  "psyche": {
+    "keywords": [
+      "psyche",
+      "metal asteroid",
+      "16 psyche"
+    ],
+    "answer": "NASA's <strong>Psyche</strong> (2023) is cruising to an asteroid that seems to be largely metal — quite possibly the exposed core of a broken proto-planet — testing a Hall-thruster electric engine chain on the way."
+  },
+  "osirisrex": {
+    "keywords": [
+      "osiris-rex",
+      "bennu sample",
+      "asteroid sample return",
+      "bennu"
+    ],
+    "answer": "NASA's <strong>OSIRIS-REx</strong> collected over a hundred grams of gravel from asteroid <strong>Bennu</strong> in 2020 and delivered it to Utah in 2023 — climate-stable carbon-rich material older than the planets themselves."
+  },
+  "hayabusa": {
+    "keywords": [
+      "hayabusa",
+      "itokawa",
+      "ryugu",
+      "japan asteroid mission"
+    ],
+    "answer": "JAXA's <strong>Hayabusa</strong> missions pioneered asteroid round trips. Hayabusa returned fragments of Itokawa (2010); Hayabusa2 fired an artificial impactor into <strong>Ryugu</strong> and returned pristine underground sample material in 2020."
+  },
+  "rosetta": {
+    "keywords": [
+      "rosetta",
+      "philae",
+      "comet landing",
+      "67p"
+    ],
+    "answer": "ESA's <strong>Rosetta</strong> spent two years in orbit around comet 67P — the first spacecraft to accompany a comet — deploying <strong>Philae</strong>, the first-ever comet lander (2014). Philae bounced onto an awkward angle but gathered data; Rosetta ended its life in a gentle comet touchdown."
+  },
+  "insight": {
+    "keywords": [
+      "insight",
+      "marsquakes",
+      "mars interior"
+    ],
+    "answer": "NASA's <strong>InSight</strong> (2018-2022) listened to Mars, logging hundreds of <strong>marsquakes</strong> that revealed crustal thicknesses and a liquid core — gently depleted as Martian dust slowly buried its solar panels."
+  },
+  "maven": {
+    "keywords": [
+      "maven",
+      "mars atmosphere loss",
+      "why mars lost its air"
+    ],
+    "answer": "NASA's <strong>MAVEN</strong> studies how Mars lost its thick ancient atmosphere — solar wind stripping is ongoing — a key question for planetary habitability everywhere."
+  },
+  "venusera": {
+    "keywords": [
+      "venera",
+      "venus lander",
+      "venus surface images"
+    ],
+    "answer": "The Soviet <strong>Venera</strong> probes achieved the first-ever data from the surface of another planet (1970), and Venera 9/10 delivered the <strong>only direct surface photos taken of Venus</strong> — each lander surviving the 465°C crushing environment for two hours at most."
+  },
+  "magellan": {
+    "keywords": [
+      "magellan",
+      "venus radar mapping",
+      "venus surface map"
+    ],
+    "answer": "NASA's <strong>Magellan</strong> (1990s) radar-mapped Venus' cloud-hidden surface, revealing volcanoes, lava plains and a young crust — radar works when visible light cannot see through the thick sulfuric clouds."
+  },
+  "apollo13": {
+    "keywords": [
+      "apollo 13",
+      "successful failure",
+      "houston problem",
+      "oxygen tank explosion"
+    ],
+    "answer": "<strong>Apollo 13</strong> (1970) was supposed to land on the Moon, but an oxygen tank exploded 330,000 km out. NASA improvised a loop around the Moon using the lunar module as a lifeboat — a triumphant 'successful failure' where the mission failed and everyone survived."
+  },
+  "deepspacednetwork": {
+    "keywords": [
+      "deep space network",
+      "dsn",
+      "ground station",
+      "spacecraft communication"
+    ],
+    "answer": "NASA's <strong>Deep Space Network</strong> keeps every deep-space conversation going: banks of 34-70 m radio dishes in California, Spain and Australia stay in contact with Mars probes, New Horizons and Voyager at 24 billion km."
+  },
+  "blueorigin": {
+    "keywords": [
+      "blue origin",
+      "new shepard",
+      "new glenn",
+      "jeff bezos company"
+    ],
+    "answer": "Jeff Bezos' <strong>Blue Origin</strong> flies suborbital tourist hops on <strong>New Shepard</strong> (reusable, six crew, past the Kármán line) and is now flying orbital payloads on the tall <strong>New Glenn</strong> rocket, whose first stage lands on an ocean barge."
+  },
+  "rocketlab": {
+    "keywords": [
+      "rocket lab",
+      "electron rocket",
+      "small launcher"
+    ],
+    "answer": "<strong>Rocket Lab</strong> specializes in small payloads: the <strong>Electron</strong> launcher, with 3D-printed and battery-fed engines, has launched hundreds of smallsats — and its stages are sometimes recovered and reflown."
+  },
+  "spacetourism": {
+    "keywords": [
+      "space tourism",
+      "suborbital tourism",
+      "tourist flights",
+      "cost to space"
+    ],
+    "answer": "<strong>Space tourism</strong> is live: Blue Origin and Virgin Galactic fly suborbital Kármán-line hops (minutes of weightlessness per seat), SpaceX flies private orbital missions and private ISS visits, and orbital hotels are being pitched for the coming decades."
+  },
+  "pulsar": {
+    "keywords": [
+      "pulsar",
+      "neutron star lighthouse",
+      "pulsar beams",
+      "fast spinning star"
+    ],
+    "answer": "A <strong>pulsar</strong> is a spinning neutron star whose magnetic beams sweep past Earth like a lighthouse — some pulse hundreds of times per second with clock-like precision, making them nature's best timekeepers."
+  },
+  "magnetar": {
+    "keywords": [
+      "magnetar",
+      "strongest magnet",
+      "ultra magnetic star"
+    ],
+    "answer": "A <strong>magnetar</strong> is a neutron star with the strongest magnetic fields known — trillions of times Earth's field. So intense that a magnetar flaring within a few light-years could scramble satellites: one in 2004 did just that from 50,000 light-years away."
+  },
+  "quasar": {
+    "keywords": [
+      "quasar",
+      "active galaxy",
+      "agn",
+      "brightest object"
+    ],
+    "answer": "A <strong>quasar</strong> is the ultra-bright core of a young galaxy feeding its central supermassive black hole — inflowing matter shines brighter than the entire host galaxy. We see quasars from billions of light-years away, making them some of the brightest things in the universe."
+  },
+  "sagittariusa": {
+    "keywords": [
+      "sagittarius a",
+      "sgr a",
+      "milky way center",
+      "milky way black hole",
+      "center of galaxy"
+    ],
+    "answer": "<strong>Sagittarius A*</strong> is the supermassive black hole at the center of our Milky Way — about 4 million solar masses compressed into a region smaller than Mercury's orbit. In 2022 the Event Horizon Telescope photographed it, completing a two-image set with M87's black hole."
+  },
+  "sirius": {
+    "keywords": [
+      "sirius",
+      "dog star",
+      "brightest star",
+      "canis major"
+    ],
+    "answer": "<strong>Sirius</strong> is the brightest star in Earth's night sky — a white-blue star about twice the Sun's mass, only 8.6 light-years away, and actually a binary: Sirius A plus a white dwarf companion, Sirius B."
+  },
+  "betelgeuse": {
+    "keywords": [
+      "betelgeuse",
+      "red supergiant star",
+      "orion shoulder star",
+      "supernova candidate"
+    ],
+    "answer": "<strong>Betelgeuse</strong>, the red shoulder of Orion, is a red supergiant roughly 700 times the Sun's diameter — so large it would engulf Mars' orbit. It's a famous supernova candidate: when it goes (any decade to any 100,000 years), it'll briefly rival the full Moon."
+  },
+  "alphacentauri": {
+    "keywords": [
+      "alpha centauri",
+      "nearest star system",
+      "nearest stars",
+      "rigil kentaurus"
+    ],
+    "answer": "<strong>Alpha Centauri</strong> is the nearest star system — a Sun-like pair (A and B) with the red dwarf <strong>Proxima Centauri</strong> as a third, orbiting member. Its planets, including Earth-sized Proxima b, make it the leading near-term destination for interstellar dreams at only 4.37 light-years."
+  },
+  "polaris": {
+    "keywords": [
+      "polaris",
+      "north star",
+      "pole star",
+      "how to find north"
+    ],
+    "answer": "<strong>Polaris</strong> sits almost exactly above Earth's rotational north pole, making it the anchor for navigation: find the Big Dipper's two end stars, extend that line up, and the bright star you hit is Polaris — which appears fixed while all other stars wheel around it."
+  },
+  "starclusters": {
+    "keywords": [
+      "star cluster",
+      "pleiades",
+      "seven sisters",
+      "globular cluster",
+      "open cluster"
+    ],
+    "answer": "Stars form in <strong>clusters</strong>: loose, young <strong>open clusters</strong> like the Pleiades ('Seven Sisters', a glittering handle-shape in Taurus visible to the naked eye), and ancient, dense, ball-shaped <strong>globular clusters</strong> — up to 13 billion years old, among the oldest things in the galaxy."
+  },
+  "localgroup": {
+    "keywords": [
+      "local group",
+      "galaxy neighborhood",
+      "milky way neighbors"
+    ],
+    "answer": "The <strong>Local Group</strong> is our galaxy's neighborhood: over 50 galaxies, mostly dwarfs, dominated by the Milky Way, Andromeda and Triangulum — all bound into one structure about 10 million light-years across, drifting together through the cosmic web."
+  },
+  "laniakea": {
+    "keywords": [
+      "laniakea",
+      "supercluster",
+      "great attractor",
+      "cosmic web"
+    ],
+    "answer": "<strong>Laniakea</strong> ('immeasurable heaven') is the supercluster containing the Local Group — about 100,000 galaxies stretching 520 million light-years, all flowing toward the mysterious Great Attractor. Laniakea is itself one node of the <strong>cosmic web</strong>, the largest-scale filament structure of the universe."
+  },
+  "meteoroid": {
+    "keywords": [
+      "meteoroid",
+      "meteor",
+      "meteorite",
+      "shooting star",
+      "fireball",
+      "difference meteor"
+    ],
+    "answer": "Same rock, three stages: a <strong>meteoroid</strong> is the pebble in space; a <strong>meteor</strong> ('shooting star') is the flash as it burns in our atmosphere; and if any survives to the ground, it's a <strong>meteorite</strong>. A rare ultra-bright one is called a fireball."
+  },
+  "vanallenbelts": {
+    "keywords": [
+      "van allen belt",
+      "radiation belts",
+      "trapped particles earth",
+      "earth radiation belts"
+    ],
+    "answer": "The <strong>Van Allen belts</strong> are two doughnut-shaped zones of charged particles trapped by Earth's magnetic field, hundreds to thousands of km up. They're a radiation hazard for astronauts passing through — crewed missions either avoid them or cross quickly."
+  },
+  "solarflare": {
+    "keywords": [
+      "solar flare",
+      "cme",
+      "coronal mass ejection",
+      "x class flare",
+      "solar storm",
+      "carrington event"
+    ],
+    "answer": "A <strong>solar flare</strong> is a violent release of magnetic energy on the Sun — the strongest (X-class) can cause radio blackouts. A <strong>coronal mass ejection</strong> hurls billions of tonnes of plasma at Earth: big ones can damage satellites, cause auroras, and historically (like the 1859 <strong>Carrington Event</strong>) would today threaten power grids."
+  },
+  "aurora": {
+    "keywords": [
+      "aurora",
+      "northern lights",
+      "southern lights",
+      "aurora borealis",
+      "polar lights"
+    ],
+    "answer": "<strong>Auroras</strong> — the dancing <strong>northern/southern lights</strong> — happen when solar particles funnel along Earth's magnetic field into the upper atmosphere, making oxygen and nitrogen glow green, red and violet. Jupiter and Saturn have their own spectacular versions."
+  },
+  "heliosphere": {
+    "keywords": [
+      "heliosphere",
+      "heliopause",
+      "edge of the solar system",
+      "interstellar space"
+    ],
+    "answer": "The <strong>heliosphere</strong> is the giant bubble of solar wind blown by the Sun through interstellar space — ending at the heliopause, roughly 18 billion km out. Both Voyager probes have punched through this boundary into true interstellar space."
+  },
+  "planet9": {
+    "keywords": [
+      "planet nine",
+      "planet x",
+      "ninth planet",
+      "hidden planet"
+    ],
+    "answer": "<strong>Planet Nine</strong> is a hypothesized unseen world far beyond Neptune, proposed because some extreme Kuiper-belt orbits seem to cluster as if nudged by something massive. Searches continue — if it exists, it's a Neptune-to-Earth-scale planet orbiting hundreds of AU out."
+  },
+  "nibiru": {
+    "keywords": [
+      "nibiru",
+      "nibiru planet",
+      "hoax planet",
+      "doomsday planet"
+    ],
+    "answer": "<strong>Nibiru</strong> is a debunked internet hoax planet — repeatedly predicted to destroy Earth and repeatedly not existing. Surveys like WISE have ruled out any such large planet in the inner solar system; the real distant-planet science is the Planet Nine hypothesis."
+  },
+  "redshift": {
+    "keywords": [
+      "redshift",
+      "doppler effect space",
+      "blueshift",
+      "stretching of light"
+    ],
+    "answer": "<strong>Redshift</strong> is the stretching of light to longer (redder) wavelengths as its source recedes — the Doppler effect applied to light. Galaxies show redshift proportional to distance (Hubble's law), which is how we know the universe is expanding."
+  },
+  "hubblelaw": {
+    "keywords": [
+      "hubble law",
+      "expansion rate",
+      "hubble constant",
+      "how fast universe expands"
+    ],
+    "answer": "<strong>Hubble's law</strong> says a galaxy's recession speed grows with its distance — the rate being the <strong>Hubble constant</strong>, around 70 km/s per megaparsec. A megaparsec away means about 70 km/s; two megaparsecs, 140 km/s — and so on, the bedrock of modern cosmology."
+  },
+  "standardcandle": {
+    "keywords": [
+      "standard candle",
+      "type ia supernova",
+      "cosmic distance ladder",
+      "how we measure distance"
+    ],
+    "answer": "A <strong>standard candle</strong> is an object of known true brightness — Type Ia supernovae explode with a consistent peak brightness — so comparing apparent vs. true brightness reveals distance. They're the yardsticks that discovered the accelerating expansion of the universe."
+  },
+  "fermiparadox": {
+    "keywords": [
+      "fermi paradox",
+      "where are aliens",
+      "why no aliens",
+      "great filter"
+    ],
+    "answer": "The <strong>Fermi paradox</strong> asks: with hundreds of billions of stars and billions of years, why is the universe silent? Possible answers include rare-Earth conditions, self-destruction (the 'Great Filter'), distances too vast, or aliens simply being quiet. It remains one of science's most intriguing open questions."
+  },
+  "drakeequation": {
+    "keywords": [
+      "drake equation",
+      "chance of aliens",
+      "civilizations in galaxy"
+    ],
+    "answer": "The <strong>Drake equation</strong> multiplies the factors that could yield communicative civilizations — star formation, planets, habitability, life's odds, intelligence, technology, longevity. The unknowns keep the answer anywhere from 'only us' to 'plenty' — it's a framework for thinking, not a result."
+  },
+  "seti": {
+    "keywords": [
+      "seti",
+      "search for extraterrestrial",
+      "alien signals",
+      "wow signal",
+      "breakthrough listen"
+    ],
+    "answer": "<strong>SETI</strong> scans the sky for artificial radio or laser signals. The famous 1977 <strong>'Wow! signal'</strong> — an intense 72-second radio burst — was never explained or repeated. Modern programs like Breakthrough Listen scan millions of stars; so far, no confirmed artificial signal."
+  },
+  "arecibo": {
+    "keywords": [
+      "arecibo",
+      "arecibo telescope",
+      "puerto rico telescope",
+      "arecibo collapse",
+      "arecibo message"
+    ],
+    "answer": "The 300 m <strong>Arecibo</strong> dish in Puerto Rico (1963-2020) was the largest single-dish radio telescope ever — it found the first exoplanet pulsar system and beamed the famous 1974 <strong>Arecibo message</strong> to the stars. Its cable suspension collapsed in 2020."
+  },
+  "fast": {
+    "keywords": [
+      "fast telescope",
+      "500 meter dish",
+      "china radio telescope",
+      "largest radio telescope"
+    ],
+    "answer": "China's <strong>FAST</strong> telescope in Guizhou province is the current record-holder for a single-dish radio telescope — a 500 m bowl set into a sinkhole, now the most sensitive pulsar-hunting instrument on Earth."
+  },
+  "wormhole": {
+    "keywords": [
+      "wormhole",
+      "einstein rosen bridge",
+      "white hole",
+      "space time tunnel"
+    ],
+    "answer": "A <strong>wormhole</strong> is a hypothetical tunnel through spacetime — a 'shortcut' allowed by general relativity, connecting distant regions. No wormhole has ever been observed, and keeping one open would require exotic matter with negative energy. <strong>White holes</strong> (time-reversed black holes) are similarly mathematical possibilities with no evidence."
+  },
+  "cosmicrays": {
+    "keywords": [
+      "cosmic rays",
+      "high energy particles",
+      "muons"
+    ],
+    "answer": "<strong>Cosmic rays</strong> are ultra-energetic particles — mostly protons — raining through space from the Sun, supernovae, and possibly distant black-hole jets. The most extreme carry the energy of a thrown baseball in a single particle, far beyond any human collider."
+  },
+  "antimatter": {
+    "keywords": [
+      "antimatter",
+      "anti particle",
+      "annihilation",
+      "why is there matter"
+    ],
+    "answer": "<strong>Antimatter</strong> is matter with opposite charge — when it meets its twin, both annihilate in pure energy (the most efficient 'fuel' physics allows). The big mystery: the Big Bang should have created both equally, yet the universe is all matter — so far, an unexplained asymmetry."
+  },
+  "multiverse": {
+    "keywords": [
+      "multiverse",
+      "parallel universe",
+      "many worlds",
+      "bubble universes"
+    ],
+    "answer": "The <strong>multiverse</strong> idea — that ours is one of many universes — appears in several serious-but-unproven theories: eternal inflation's bubble universes, quantum 'many worlds', and other cosmological variants. It's mathematically motivated, but with no observational test yet."
+  },
+  "spacelaw": {
+    "keywords": [
+      "space law",
+      "outer space treaty",
+      "who owns the moon",
+      "artemis accords",
+      "space property"
+    ],
+    "answer": "The 1967 <strong>Outer Space Treaty</strong> says space is free for exploration, no nation can claim sovereignty over the Moon or planets, and states are liable for their objects. Modern additions like the <strong>Artemis Accords</strong> address resource use — making 'space law' a fast-growing field."
+  },
+  "asteroidmining": {
+    "keywords": [
+      "asteroid mining",
+      "space resources",
+      "precious metals asteroid",
+      "space economy"
+    ],
+    "answer": "<strong>Asteroid mining</strong> is a real future business: some metal-rich asteroids contain more platinum-group metals than Earth has ever mined. Companies are in early development, and NASA's Psyche mission is already characterizing a metal-rich target — the economics (returning mass from space) remains the challenge."
+  },
+  "isru": {
+    "keywords": [
+      "isru",
+      "in situ resource utilization",
+      "make fuel on mars",
+      "living off the land in space"
+    ],
+    "answer": "<strong>ISRU (in-situ resource utilization)</strong> means living off local resources: making oxygen from lunar regolith, mining water ice, and producing methane fuel on Mars via the Sabatier reaction. SpaceX's Starship is designed around it — fly out with fuel, refuel from Mars, come home."
+  },
+  "marscolony": {
+    "keywords": [
+      "mars colony",
+      "colonize mars",
+      "multiplanetary species",
+      "living on mars",
+      "mars city"
+    ],
+    "answer": "A <strong>Mars colony</strong> faces brutal realities: 1% atmospheric pressure, -60°C average, radiation, and 22-minute communication delays. But it also has water ice, CO₂ for fuel, and 24.6-hour days — SpaceX, SpaceX-adjacent companies, and agencies are designing permanent habitats on 20-to-50-year horizons."
+  },
+  "terraforming": {
+    "keywords": [
+      "terraforming",
+      "make mars earth like",
+      "fix mars atmosphere",
+      "planet engineering"
+    ],
+    "answer": "<strong>Terraforming</strong> Mars would mean thickening its atmosphere and warming it — proposed ideas include greenhouse-gas factories, orbital mirrors, or melting CO₂ and ice caps. Timescales run centuries, and the honest engineering answer today: we don't yet have a proven path."
+  },
+  "moonbase": {
+    "keywords": [
+      "moon base",
+      "lunar base",
+      "living on the moon",
+      "artemis base camp",
+      "moon village"
+    ],
+    "answer": "A permanent <strong>lunar base</strong> is the near-term goal of several agencies: NASA's Artemis Base Camp concept, China-Russia's planned ILRS station, and ESA's Moon Village idea. Polar craters hold water ice, and regolith can be 3D-printed into structures — the Moon is the logical first permanent foothold."
+  },
+  "spacewalk": {
+    "keywords": [
+      "spacewalk",
+      "eva",
+      "extravehicular activity",
+      "outside the spacecraft"
+    ],
+    "answer": "A <strong>spacewalk (EVA)</strong> is working outside a spacecraft in a pressurized suit — at 400 km, astronauts effectively fall around Earth while tethered, in a suit protecting against vacuum, temperature swings, and micrometeorites. Spacewalks build and repair stations, satellites, and will assemble future Moon missions."
+  },
+  "gforce": {
+    "keywords": [
+      "g force",
+      "g forces",
+      "launch acceleration",
+      "how many g on launch",
+      "astronauts feel"
+    ],
+    "answer": "<strong>G-forces</strong> measure acceleration in Earth-gravity units. Astronauts feel about 3-4 G on a crew launch ( fighter-jet territory), and reentry deceleration can hit higher — bodies and engineering are designed around it."
+  },
+  "radiation": {
+    "keywords": [
+      "radiation in space",
+      "space radiation dose",
+      "radiation shielding",
+      "cosmic radiation danger"
+    ],
+    "answer": "Space radiation comes from solar particles and cosmic rays — long missions accumulate doses that raise lifetime cancer risk, which is why <strong>shielding</strong> (water walls, regolith, dedicated storm shelters) is central to Mars-mission design."
+  },
+  "aerospace": {
+    "keywords": [
+      "aerospace",
+      "aerospace engineering",
+      "aeronautics vs astronautics",
+      "aerospace industry"
+    ],
+    "answer": "<strong>Aerospace engineering</strong> spans two related fields: <strong>aeronautics</strong> (flight within atmospheres — planes, helicopters, drones) and <strong>astronautics</strong> (flight beyond — rockets, satellites, spacecraft). It covers aerodynamics, propulsion, structures, avionics and systems engineering, and is one of the most demanding engineering disciplines."
+  },
+  "aerodynamics": {
+    "keywords": [
+      "aerodynamics",
+      "lift",
+      "why planes fly",
+      "airfoil",
+      "wings generate lift"
+    ],
+    "answer": "<strong>Aerodynamics</strong> studies how air moves around objects. Wings generate <strong>lift</strong> by deflecting air downward (Newton) and creating lower pressure above the curved surface (Bernoulli) — both descriptions are correct, and together they keep aircraft flying."
+  },
+  "jetengine": {
+    "keywords": [
+      "jet engine",
+      "turbofan",
+      "jet vs rocket",
+      "air breathing engine"
+    ],
+    "answer": "<strong>Jet engines</strong> are air-breathing: they compress incoming air, burn fuel, and exhaust the hot gas — oxygen comes from the atmosphere. <strong>Rockets</strong> must carry their own oxidizer, which is heavier but lets them fly in vacuum — one reason rockets reach space and jets cannot."
+  },
+  "soundbarrier": {
+    "keywords": [
+      "sound barrier",
+      "mach number",
+      "sonic boom",
+      "concorde",
+      "supersonic flight"
+    ],
+    "answer": "The <strong>sound barrier</strong> was the air-drag wall near Mach 1 that nearly destroyed early test jets — Chuck Yeager broke it in 1947 aboard the X-1. Supersonic craft like <strong>Concorde</strong> then made it routine (and loud: the sonic boom is why overland Concorde was restricted)."
+  },
+  "horsehead": {
+    "keywords": [
+      "horsehead nebula",
+      "horse head",
+      "orion dark nebula"
+    ],
+    "answer": "The <strong>Horsehead Nebula</strong> in Orion is a dark pillar of dense dust silhouetted against glowing hydrogen — a famous star-forming region about 1,400 light-years away, sculpted by the radiation of nearby hot young stars."
+  },
+  "carina": {
+    "keywords": [
+      "carina nebula",
+      "great nebula",
+      "mystic mountain"
+    ],
+    "answer": "The <strong>Carina Nebula</strong> is one of the largest star-forming regions in the galaxy — home to monsters like Eta Carinae, a star 100+ solar masses on the edge of supernova. Its dramatic pillars ('Mystic Mountain') were photographed by Hubble and JWST."
+  },
+  "mooncount": {
+    "keywords": [
+      "how many moons",
+      "total moons in solar system",
+      "planets without moons",
+      "most moons"
+    ],
+    "answer": "The solar system has <strong>well over 400 known moons</strong> — Saturn (~146) and Jupiter (~95) hold the records, while Mercury and Venus have none and Earth's single large Moon is an outlier. Hundreds more moonlets orbit asteroids and Kuiper belt worlds."
+  },
+  "twinkle": {
+    "keywords": [
+      "why stars twinkle",
+      "stars twinkle",
+      "planets don't twinkle",
+      "twinkling"
+    ],
+    "answer": "Stars <strong>twinkle</strong> because their tiny points of light get bounced by turbulence in Earth's atmosphere. Planets are close enough to appear as tiny disks, averaging the turbulence out — which is why planets shine steadily, a classic sky-watching trick."
+  },
+  "whyblackspace": {
+    "keywords": [
+      "why is space black",
+      "space dark",
+      "black at night",
+      "olbers paradox"
+    ],
+    "answer": "Space looks black because there's almost nothing in it to <em>reflect</em> light toward your eye — light travels unscattered through vacuum. It's a cousin of <strong>Olbers' paradox</strong> ('why is the night sky dark if stars are everywhere?') — answered by the finite age of the universe and its expansion."
+  },
+  "astrobiology": {
+    "keywords": [
+      "astrobiology",
+      "life in universe",
+      "biosignature",
+      "technosignature",
+      "origin of life space"
+    ],
+    "answer": "<strong>Astrobiology</strong> studies life's origins, limits and detectability — from extremophiles in acid lakes and under Antarctic ice to searching for <strong>biosignatures</strong> (gases like methane+oxygen pairs) and <strong>technosignatures</strong> (industrial atmospheres, radio) on other worlds."
+  },
+  "dart": {
+    "keywords": [
+      "dart",
+      "planetary defense",
+      "deflect asteroid",
+      "dimorphos",
+      "asteroid impact prevention"
+    ],
+    "answer": "NASA's <strong>DART</strong> mission made history in 2022: it deliberately rammed the asteroid moon <strong>Dimorphos</strong> and measurably shortened its orbit — humanity's first-ever deliberate change of a celestial body's motion, proving planetary defense works."
+  },
+  "apophis": {
+    "keywords": [
+      "apophis",
+      "2029 asteroid",
+      "close asteroid",
+      "asteroid near miss"
+    ],
+    "answer": "The asteroid <strong>Apophis</strong> (370 m wide) will pass just 31,000 km from Earth on 13 April 2029 — closer than our geostationary satellites, visible to the naked eye, and absolutely certain to miss. Radar observations have nailed its orbit down for a century at least."
+  },
+  "oumuamua": {
+    "keywords": [
+      "oumuamua",
+      "interstellar visitor",
+      "first interstellar object",
+      "borisov comet"
+    ],
+    "answer": "<strong>'Oumuamua</strong> (2017) was the first known interstellar object through our solar system — a mysterious, highly elongated visitor that accelerated oddly (likely hydrogen-ice outgassing) before departing. Comet <strong>2I/Borisov</strong> followed in 2019; astronomers expect a new interstellar detection roughly every year."
+  },
+  "jaxa": {
+    "keywords": [
+      "jaxa",
+      "japan space agency",
+      "japanese space",
+      "ikaros"
+    ],
+    "answer": "<strong>JAXA</strong>, Japan's space agency, is a pioneer of precision science missions: the Hayabusa asteroid sample returns, the IKAROS solar sail (2010), the XRISM X-ray observatory, and key modules of the ISS."
+  },
+  "blackhole": {
+    "keywords": [
+      "black hole",
+      "black holes",
+      "what is a black hole",
+      "black hole types",
+      "how do black holes form"
+    ],
+    "answer": "A <strong>black hole</strong> is a region where gravity is so intense that nothing — not even light — can escape past its boundary (the event horizon). They form when massive stars collapse, and grow into three classes: stellar-mass (3-100 suns), intermediate, and supermassive (millions to billions of suns, like Sagittarius A* at our galaxy's center). In 2019 the Event Horizon Telescope photographed one for the first time."
+  }
+}

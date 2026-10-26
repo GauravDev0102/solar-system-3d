@@ -1,0 +1,9 @@
+{
+  "name": "solar-system-3d",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3D Solar System Explorer — interactive Three.js visualization with camera fly-to, asteroid belt, ambient audio, and a built-in space chatbot.",
+  "scripts": {
+    "start": "node server.cjs"
+  }
+}
